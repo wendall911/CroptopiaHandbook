@@ -1,0 +1,20 @@
+{
+  "category": "croptopiahandbook:cooking",
+  "icon": "croptopia:molasses",
+  "name": "item.croptopia.molasses",
+  "pages": [
+    {
+      "type": "handbook:campfire",
+      "recipe": "croptopia:molasses"
+    },
+    {
+      "type": "handbook:smoking",
+      "recipe": "croptopia:molasses_from_smoking_sugar_cane"
+    },
+    {
+      "type": "handbook:smelting",
+      "recipe": "croptopia:molasses_from_sugar_cane"
+    }
+  ],
+  "sortnum": 96
+}

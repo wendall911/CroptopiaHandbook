@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:tofu",
+  "name": "item.croptopia.tofu",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:tofu"
+    }
+  ],
+  "sortnum": 65
+}

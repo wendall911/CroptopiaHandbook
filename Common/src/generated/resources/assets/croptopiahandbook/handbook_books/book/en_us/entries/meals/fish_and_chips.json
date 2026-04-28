@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:fish_and_chips",
+  "name": "item.croptopia.fish_and_chips",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:fish_and_chips"
+    }
+  ],
+  "sortnum": 145
+}

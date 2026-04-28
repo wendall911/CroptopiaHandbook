@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:dough",
+  "name": "item.croptopia.dough",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:dough"
+    }
+  ],
+  "sortnum": 74
+}

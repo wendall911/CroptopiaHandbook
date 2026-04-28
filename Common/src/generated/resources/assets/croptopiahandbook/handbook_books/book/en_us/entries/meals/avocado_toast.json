@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:avocado_toast",
+  "name": "item.croptopia.avocado_toast",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:avocado_toast"
+    }
+  ],
+  "sortnum": 161
+}

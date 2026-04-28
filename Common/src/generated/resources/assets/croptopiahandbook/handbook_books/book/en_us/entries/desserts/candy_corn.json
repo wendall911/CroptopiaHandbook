@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:candy_corn",
+  "name": "item.croptopia.candy_corn",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:candy_corn"
+    }
+  ],
+  "sortnum": 5
+}

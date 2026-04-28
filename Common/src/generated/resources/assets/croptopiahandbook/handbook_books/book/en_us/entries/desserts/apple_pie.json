@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:apple_pie",
+  "name": "item.croptopia.apple_pie",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:apple_pie"
+    }
+  ],
+  "sortnum": 29
+}

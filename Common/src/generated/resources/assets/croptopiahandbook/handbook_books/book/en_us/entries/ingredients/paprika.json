@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:paprika",
+  "name": "item.croptopia.paprika",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:paprika"
+    }
+  ],
+  "sortnum": 57
+}

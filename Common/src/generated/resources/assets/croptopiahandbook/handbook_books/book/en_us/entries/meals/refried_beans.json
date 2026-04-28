@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:refried_beans",
+  "name": "item.croptopia.refried_beans",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:refried_beans"
+    }
+  ],
+  "sortnum": 125
+}

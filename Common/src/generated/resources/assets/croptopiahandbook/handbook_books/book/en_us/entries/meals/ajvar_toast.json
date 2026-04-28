@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:ajvar_toast",
+  "name": "item.croptopia.ajvar_toast",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:ajvar_toast"
+    }
+  ],
+  "sortnum": 135
+}

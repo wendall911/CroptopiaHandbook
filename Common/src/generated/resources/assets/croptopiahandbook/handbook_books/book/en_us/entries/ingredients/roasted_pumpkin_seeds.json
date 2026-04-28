@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:roasted_pumpkin_seeds",
+  "name": "item.croptopia.roasted_pumpkin_seeds",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:roasted_pumpkin_seeds"
+    }
+  ],
+  "sortnum": 73
+}

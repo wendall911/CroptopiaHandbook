@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:almond_brittle",
+  "name": "item.croptopia.almond_brittle",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:almond_brittle"
+    }
+  ],
+  "sortnum": 17
+}

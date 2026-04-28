@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:pickled_radish",
+  "name": "item.croptopia.pickled_radish",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pickled_radish"
+    }
+  ],
+  "sortnum": 203
+}

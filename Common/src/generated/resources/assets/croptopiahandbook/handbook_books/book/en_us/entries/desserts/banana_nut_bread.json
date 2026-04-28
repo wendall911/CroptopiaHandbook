@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:banana_nut_bread",
+  "name": "item.croptopia.banana_nut_bread",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:banana_nut_bread"
+    }
+  ],
+  "sortnum": 20
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:carrot_cake",
+  "name": "item.croptopia.carrot_cake",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:carrot_cake"
+    }
+  ],
+  "sortnum": 23
+}

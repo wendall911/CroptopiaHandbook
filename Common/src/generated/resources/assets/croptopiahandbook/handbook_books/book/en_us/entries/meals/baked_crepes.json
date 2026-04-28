@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:baked_crepes",
+  "name": "item.croptopia.baked_crepes",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:baked_crepes"
+    }
+  ],
+  "sortnum": 151
+}

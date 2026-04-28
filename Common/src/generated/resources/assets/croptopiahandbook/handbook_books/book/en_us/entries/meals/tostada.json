@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:tostada",
+  "name": "item.croptopia.tostada",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:tostada"
+    }
+  ],
+  "sortnum": 132
+}

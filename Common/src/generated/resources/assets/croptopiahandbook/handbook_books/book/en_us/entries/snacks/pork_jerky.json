@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:pork_jerky",
+  "name": "item.croptopia.pork_jerky",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pork_jerky"
+    }
+  ],
+  "sortnum": 218
+}

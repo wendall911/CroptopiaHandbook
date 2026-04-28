@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:bibim_naengmyeon",
+  "name": "item.croptopia.bibim_naengmyeon",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:bibim_naengmyeon"
+    }
+  ],
+  "sortnum": 165
+}

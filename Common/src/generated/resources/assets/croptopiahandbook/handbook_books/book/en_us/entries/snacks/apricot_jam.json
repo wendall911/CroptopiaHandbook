@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:apricot_jam",
+  "name": "item.croptopia.apricot_jam",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:apricot_jam"
+    }
+  ],
+  "sortnum": 224
+}

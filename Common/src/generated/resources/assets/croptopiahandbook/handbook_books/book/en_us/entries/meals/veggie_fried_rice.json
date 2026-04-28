@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:veggie_fried_rice",
+  "name": "item.croptopia.veggie_fried_rice",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:veggie_fried_rice"
+    }
+  ],
+  "sortnum": 152
+}

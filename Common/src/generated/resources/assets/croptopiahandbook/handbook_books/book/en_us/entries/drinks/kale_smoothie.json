@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:kale_smoothie",
+  "name": "item.croptopia.kale_smoothie",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:kale_smoothie"
+    }
+  ],
+  "sortnum": 33
+}

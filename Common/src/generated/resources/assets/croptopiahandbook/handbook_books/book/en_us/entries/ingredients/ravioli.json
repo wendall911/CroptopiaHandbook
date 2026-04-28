@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:ravioli",
+  "name": "item.croptopia.ravioli",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:ravioli"
+    }
+  ],
+  "sortnum": 67
+}

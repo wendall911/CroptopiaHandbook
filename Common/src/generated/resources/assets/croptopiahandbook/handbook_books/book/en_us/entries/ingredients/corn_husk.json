@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:corn_husk",
+  "name": "item.croptopia.corn_husk",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:corn_husk"
+    }
+  ],
+  "sortnum": 82
+}

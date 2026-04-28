@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:tomato_juice",
+  "name": "item.croptopia.tomato_juice",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:tomato_juice"
+    }
+  ],
+  "sortnum": 36
+}

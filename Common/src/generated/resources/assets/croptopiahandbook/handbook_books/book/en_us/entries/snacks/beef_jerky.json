@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:beef_jerky",
+  "name": "item.croptopia.beef_jerky",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:beef_jerky"
+    }
+  ],
+  "sortnum": 205
+}

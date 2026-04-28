@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:strawberry_ice_cream",
+  "name": "item.croptopia.strawberry_ice_cream",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:strawberry_ice_cream"
+    }
+  ],
+  "sortnum": 2
+}

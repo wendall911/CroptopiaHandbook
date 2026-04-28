@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:burrito",
+  "name": "item.croptopia.burrito",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:burrito"
+    }
+  ],
+  "sortnum": 163
+}

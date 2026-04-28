@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:taco",
+  "name": "item.croptopia.taco",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:taco"
+    }
+  ],
+  "sortnum": 190
+}

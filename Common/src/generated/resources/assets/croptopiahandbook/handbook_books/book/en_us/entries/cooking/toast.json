@@ -1,0 +1,20 @@
+{
+  "category": "croptopiahandbook:cooking",
+  "icon": "croptopia:toast",
+  "name": "item.croptopia.toast",
+  "pages": [
+    {
+      "type": "handbook:campfire",
+      "recipe": "croptopia:toast"
+    },
+    {
+      "type": "handbook:smoking",
+      "recipe": "croptopia:toast_from_smoking_bread"
+    },
+    {
+      "type": "handbook:smelting",
+      "recipe": "croptopia:toast_from_bread"
+    }
+  ],
+  "sortnum": 86
+}

@@ -1,0 +1,23 @@
+{
+  "info.croptopia.guide.cooking.desc": "These items can be cooked.",
+  "info.croptopia.guide.cooking.name": "Cooking",
+  "info.croptopia.guide.crops.crops.details": "Crops can be found around the world. They have specific biomes that they will spawn in. In 2.0.0 crop spawning is now determined with datapacks rather than the 'category' of biome, it is now determined by the biomes name. If you would like certain crops added to modded biomes, make an issue on the Croptopia github page.",
+  "info.croptopia.guide.crops.crops.name": "Plants",
+  "info.croptopia.guide.crops.desc": "Information about the crops that you can find in Croptopia.",
+  "info.croptopia.guide.crops.name": "Crops",
+  "info.croptopia.guide.crops.trees.details": "In the world you can find various trees with custom crops growing on them. To harvest them you can right click them when they're fully grown.",
+  "info.croptopia.guide.crops.trees.name": "Trees",
+  "info.croptopia.guide.desserts.desc": "Sweet Treats",
+  "info.croptopia.guide.desserts.name": "Desserts",
+  "info.croptopia.guide.drinks.desc": "Croptopia comes with a variety of drinks to satiate your hunger and thirst.",
+  "info.croptopia.guide.drinks.name": "Drinks",
+  "info.croptopia.guide.ingredients.desc": "These ingredients are crafted together and then used in other recipes.",
+  "info.croptopia.guide.ingredients.name": "Ingredients",
+  "info.croptopia.guide.intro": "Introduction to Croptopia Handbook",
+  "info.croptopia.guide.meals.desc": "Hearty meals to fill you up.",
+  "info.croptopia.guide.meals.name": "Meals",
+  "info.croptopia.guide.snacks.desc": "Snacks for a quick pick me up.",
+  "info.croptopia.guide.snacks.name": "Snacks",
+  "info.croptopia.guide.utensils.desc": "All you need to know to craft the different utensils in Croptopia",
+  "info.croptopia.guide.utensils.name": "Utensils"
+}

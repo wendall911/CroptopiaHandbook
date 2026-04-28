@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:dauphine_potatoes",
+  "name": "item.croptopia.dauphine_potatoes",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:dauphine_potatoes"
+    }
+  ],
+  "sortnum": 118
+}

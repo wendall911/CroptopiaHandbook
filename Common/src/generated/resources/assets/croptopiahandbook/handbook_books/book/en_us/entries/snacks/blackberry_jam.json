@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:blackberry_jam",
+  "name": "item.croptopia.blackberry_jam",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:blackberry_jam"
+    }
+  ],
+  "sortnum": 207
+}

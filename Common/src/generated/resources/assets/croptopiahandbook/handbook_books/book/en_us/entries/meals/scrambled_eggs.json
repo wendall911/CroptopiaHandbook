@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:scrambled_eggs",
+  "name": "item.croptopia.scrambled_eggs",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:scrambled_eggs"
+    }
+  ],
+  "sortnum": 192
+}

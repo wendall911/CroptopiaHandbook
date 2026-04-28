@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:flour",
+  "name": "item.croptopia.flour",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:flour"
+    }
+  ],
+  "sortnum": 66
+}

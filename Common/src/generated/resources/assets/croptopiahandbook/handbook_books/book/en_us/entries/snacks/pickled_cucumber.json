@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:pickled_cucumber",
+  "name": "item.croptopia.pickled_cucumber",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pickled_cucumber"
+    }
+  ],
+  "sortnum": 206
+}

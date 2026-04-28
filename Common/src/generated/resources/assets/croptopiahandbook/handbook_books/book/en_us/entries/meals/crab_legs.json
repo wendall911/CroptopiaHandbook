@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:crab_legs",
+  "name": "item.croptopia.crab_legs",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:crab_legs"
+    }
+  ],
+  "sortnum": 186
+}

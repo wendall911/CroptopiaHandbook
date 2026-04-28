@@ -1,0 +1,16 @@
+{
+  "category": "croptopiahandbook:cooking",
+  "icon": "croptopia:salt",
+  "name": "item.croptopia.salt",
+  "pages": [
+    {
+      "type": "handbook:smoking",
+      "recipe": "croptopia:salt_from_smoking_water_bottle"
+    },
+    {
+      "type": "handbook:smelting",
+      "recipe": "croptopia:salt_from_water_bottle"
+    }
+  ],
+  "sortnum": 91
+}

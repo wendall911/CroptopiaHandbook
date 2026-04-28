@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:utensils",
+  "icon": "croptopia:food_press",
+  "name": "item.croptopia.food_press",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:food_press"
+    }
+  ],
+  "sortnum": 248
+}

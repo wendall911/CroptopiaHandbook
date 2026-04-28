@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:corn_bread",
+  "name": "item.croptopia.corn_bread",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:corn_bread"
+    }
+  ],
+  "sortnum": 210
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:vanilla_ice_cream",
+  "name": "item.croptopia.vanilla_ice_cream",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:vanilla_ice_cream"
+    }
+  ],
+  "sortnum": 0
+}

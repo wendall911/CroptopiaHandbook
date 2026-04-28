@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:beer",
+  "name": "item.croptopia.beer",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:beer"
+    }
+  ],
+  "sortnum": 48
+}

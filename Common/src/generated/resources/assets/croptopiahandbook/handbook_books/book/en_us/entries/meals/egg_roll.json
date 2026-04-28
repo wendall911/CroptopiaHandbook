@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:egg_roll",
+  "name": "item.croptopia.egg_roll",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:egg_roll"
+    }
+  ],
+  "sortnum": 159
+}

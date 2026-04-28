@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:ajvar",
+  "name": "item.croptopia.ajvar",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:ajvar"
+    }
+  ],
+  "sortnum": 181
+}

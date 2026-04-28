@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:pecan_ice_cream",
+  "name": "item.croptopia.pecan_ice_cream",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pecan_ice_cream"
+    }
+  ],
+  "sortnum": 24
+}

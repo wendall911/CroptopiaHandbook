@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:sesame_chicken",
+  "name": "item.croptopia.sesame_chicken",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:sesame_chicken"
+    }
+  ],
+  "sortnum": 155
+}

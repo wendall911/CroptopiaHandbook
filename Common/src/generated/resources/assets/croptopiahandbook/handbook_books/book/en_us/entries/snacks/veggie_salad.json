@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:veggie_salad",
+  "name": "item.croptopia.veggie_salad",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:veggie_salad"
+    }
+  ],
+  "sortnum": 201
+}

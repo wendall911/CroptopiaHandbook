@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:toast_with_jam",
+  "name": "item.croptopia.toast_with_jam",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:toast_with_jam"
+    }
+  ],
+  "sortnum": 102
+}

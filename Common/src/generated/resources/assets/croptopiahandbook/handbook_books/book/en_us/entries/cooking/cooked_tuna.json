@@ -1,0 +1,16 @@
+{
+  "category": "croptopiahandbook:cooking",
+  "icon": "croptopia:cooked_tuna",
+  "name": "item.croptopia.cooked_tuna",
+  "pages": [
+    {
+      "type": "handbook:smoking",
+      "recipe": "croptopia:cooked_tuna_from_smoking_tuna"
+    },
+    {
+      "type": "handbook:smelting",
+      "recipe": "croptopia:cooked_tuna_from_tuna"
+    }
+  ],
+  "sortnum": 85
+}

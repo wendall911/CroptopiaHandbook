@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:tuna_roll",
+  "name": "item.croptopia.tuna_roll",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:tuna_roll"
+    }
+  ],
+  "sortnum": 150
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:milk_bottle",
+  "name": "item.croptopia.milk_bottle",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:milk_bottle"
+    }
+  ],
+  "sortnum": 83
+}

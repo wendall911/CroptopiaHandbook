@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:croque_monsieur",
+  "name": "item.croptopia.croque_monsieur",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:croque_monsieur"
+    }
+  ],
+  "sortnum": 110
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:candied_nuts",
+  "name": "item.croptopia.candied_nuts",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:candied_nuts"
+    }
+  ],
+  "sortnum": 16
+}

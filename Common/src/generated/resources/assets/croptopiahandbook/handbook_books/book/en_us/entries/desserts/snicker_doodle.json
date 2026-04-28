@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:snicker_doodle",
+  "name": "item.croptopia.snicker_doodle",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:snicker_doodle"
+    }
+  ],
+  "sortnum": 19
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:anchovy_pizza",
+  "name": "item.croptopia.anchovy_pizza",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:anchovy_pizza"
+    }
+  ],
+  "sortnum": 146
+}

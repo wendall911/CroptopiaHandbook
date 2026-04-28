@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:chili_relleno",
+  "name": "item.croptopia.chili_relleno",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:chili_relleno"
+    }
+  ],
+  "sortnum": 128
+}

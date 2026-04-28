@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:peach_jam",
+  "name": "item.croptopia.peach_jam",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:peach_jam"
+    }
+  ],
+  "sortnum": 242
+}

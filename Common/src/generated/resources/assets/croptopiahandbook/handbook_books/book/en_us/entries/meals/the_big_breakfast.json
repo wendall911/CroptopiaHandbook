@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:the_big_breakfast",
+  "name": "item.croptopia.the_big_breakfast",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:the_big_breakfast"
+    }
+  ],
+  "sortnum": 179
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:water_bottle",
+  "name": "item.croptopia.water_bottle",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:water_bottle"
+    }
+  ],
+  "sortnum": 75
+}

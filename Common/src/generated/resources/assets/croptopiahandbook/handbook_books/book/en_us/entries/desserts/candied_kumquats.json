@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:candied_kumquats",
+  "name": "item.croptopia.candied_kumquats",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:candied_kumquats"
+    }
+  ],
+  "sortnum": 22
+}

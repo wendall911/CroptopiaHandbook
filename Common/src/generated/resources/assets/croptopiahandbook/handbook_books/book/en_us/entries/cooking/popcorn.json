@@ -1,0 +1,20 @@
+{
+  "category": "croptopiahandbook:cooking",
+  "icon": "croptopia:popcorn",
+  "name": "item.croptopia.popcorn",
+  "pages": [
+    {
+      "type": "handbook:campfire",
+      "recipe": "croptopia:popcorn"
+    },
+    {
+      "type": "handbook:smoking",
+      "recipe": "croptopia:popcorn_from_smoking_corn"
+    },
+    {
+      "type": "handbook:smelting",
+      "recipe": "croptopia:popcorn_from_corn"
+    }
+  ],
+  "sortnum": 89
+}

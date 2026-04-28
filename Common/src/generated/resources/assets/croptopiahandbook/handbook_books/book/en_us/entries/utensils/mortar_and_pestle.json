@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:utensils",
+  "icon": "croptopia:mortar_and_pestle",
+  "name": "item.croptopia.mortar_and_pestle",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:mortar_and_pestle"
+    }
+  ],
+  "sortnum": 251
+}

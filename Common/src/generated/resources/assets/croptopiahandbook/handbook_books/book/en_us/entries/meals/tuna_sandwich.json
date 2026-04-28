@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:tuna_sandwich",
+  "name": "item.croptopia.tuna_sandwich",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:tuna_sandwich"
+    }
+  ],
+  "sortnum": 105
+}

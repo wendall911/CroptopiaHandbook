@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:hashed_brown",
+  "name": "item.croptopia.hashed_brown",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:hashed_brown"
+    }
+  ],
+  "sortnum": 245
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:pumpkin_soup",
+  "name": "item.croptopia.pumpkin_soup",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pumpkin_soup"
+    }
+  ],
+  "sortnum": 172
+}

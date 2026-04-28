@@ -1,0 +1,138 @@
+plugins {
+    id 'multiloader-loader'
+    id 'net.neoforged.moddev'
+}
+
+def identifier = "${mod_id}-${minecraft_version}-neoforge"
+def modLoader = "${project.name}".toUpperCase()
+def actualVersion = version
+version = "${version}-${modLoader}"
+
+neoForge {
+    version = neoforge_version
+    validateAccessTransformers = true
+    // Automatically enable neoforge AccessTransformers if the file exists
+    def at = project(':Common').file('src/main/resources/META-INF/accesstransformer.cfg')
+    if (at.exists()) {
+        accessTransformers.from(at.absolutePath)
+    }
+    runs {
+        configureEach {
+            systemProperty('neoforge.enabledGameTestNamespaces', mod_id)
+            ideName = "NeoForge ${it.name.capitalize()} (${project.path})" // Unify the run config names with fabric
+        }
+        client {
+            client()
+        }
+        server {
+            server()
+        }
+    }
+    mods {
+        "${mod_id}" {
+            sourceSet sourceSets.main
+        }
+    }
+}
+
+dependencies {
+    implementation group: 'technology.roughness.handbook', name: "handbook-${minecraft_version}-neoforge", version: "${handbook_version}"
+    jarJar group: 'technology.roughness.handbook', name: "handbook-${minecraft_version}-neoforge", version: "${handbook_version}"
+
+    runtimeOnly group: 'technology.roughness.whitenoise', name: "whitenoise-${minecraft_version}-neoforge", version: "${whitenoise_version}"
+    jarJar group: 'technology.roughness.whitenoise', name: "whitenoise-${minecraft_version}-neoforge", version: "${whitenoise_version}"
+
+    implementation "curse.maven:croptopia-415438:${croptopia_neoforge_version}"
+    runtimeOnly "curse.maven:epherolib-885449:${epherolib_neoforge_version}"
+
+    runtimeOnly "mezz.jei:jei-${jei_minecraft_version}-neoforge:${jei_version}"
+
+    // Testing mods
+    //runtimeOnly "curse.maven:XXX-:"
+}
+
+sourceSets.main.resources {
+    srcDir 'src/generated/resources'
+}
+
+def changelogFile = project(":").projectDir.toString() + '/build/libs/changelog.txt'
+def publishFile = project(":").projectDir.toString() + "/NeoForge/build/libs/${identifier}-${version}.jar"
+def display_name = "${project.name} ${minecraft_version}-${version}"
+def display_version = "${minecraft_version}-${version}"
+
+publishMods {
+    file = file(publishFile)
+    if (file(changelogFile).exists()) {
+        changelog = file(changelogFile).text
+    }
+    displayName = "${display_name}"
+    version = "${display_version}"
+    type = "${release_type}".startsWith("release") ? STABLE : ("${release_type}".startsWith("beta") ? BETA : ALPHA)
+    modLoaders.add('neoforge')
+    dryRun = providers.environmentVariable('DO_RELEASE').getOrNull() == null
+
+    if (project.hasProperty("${curseforge_api_key_prop}")) {
+        curseforge {
+            accessToken = project.property("${curseforge_api_key_prop}")
+            projectId = "${curseforge_id}"
+            projectSlug = "${curseforge_slug}"
+            javaVersions.add(JavaVersion.toVersion("${java_version}"))
+            clientRequired = true
+            serverRequired = true
+            minecraftVersions.addAll("${release_versions}".split(','))
+            optional('actually-harvest')
+            optional('betterdays')
+            optional('charged-charms')
+            optional('creeper-fireworks')
+            optional('homeostatic')
+            optional('homeostatic-seasons')
+            optional('magical-psi-revival')
+            optional('mobchampions')
+            optional('ready-player-fun')
+            optional('simpletextoverlay')
+            optional('survivalist-essentials')
+            optional('tinkersurvival')
+        }
+    }
+    if (project.hasProperty("${modrinth_api_key_prop}")) {
+        modrinth {
+            accessToken = project.property("${modrinth_api_key_prop}")
+            projectId = "${modrinth_id}"
+            minecraftVersions.addAll("${release_versions}".split(','))
+            optional('actually-harvest')
+            optional('betterdays')
+            optional('charged-charms')
+            optional('creeper-fireworks-mod')
+            optional('homeostatic')
+            optional('homeostatic-seasons')
+            optional('magical-psi-revival')
+            optional('mobchampions')
+            optional('ready-player-fun')
+            optional('simpletextoverlay')
+            optional('survivalist-essentials')
+            optional('tinkersurvival')
+        }
+    }
+    if (project.hasProperty("${discord_webhook_prop}")) {
+        discord {
+            webhookUrl = project.property("${discord_webhook_prop}")
+            dryRunWebhookUrl = project.property("${discord_dryrun_webhook_prop}")
+            username = "${mod_author}"
+            content = changelog.map {
+                "# A new version of ${mod_display_name} for NeoForge ${minecraft_version} has been released! \n" + it
+            }
+        }
+    }
+}
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            groupId project.group
+            artifactId "${mod_id}-${minecraft_version}-neoforge"
+            version project.version
+            // This gives us the built version NeoForge requires
+            artifact jar
+        }
+    }
+}

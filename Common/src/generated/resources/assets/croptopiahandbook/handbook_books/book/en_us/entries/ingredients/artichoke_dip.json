@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:artichoke_dip",
+  "name": "item.croptopia.artichoke_dip",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:artichoke_dip"
+    }
+  ],
+  "sortnum": 78
+}

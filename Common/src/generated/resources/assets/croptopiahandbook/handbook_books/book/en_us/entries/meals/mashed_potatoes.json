@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:mashed_potatoes",
+  "name": "item.croptopia.mashed_potatoes",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:mashed_potatoes"
+    }
+  ],
+  "sortnum": 160
+}

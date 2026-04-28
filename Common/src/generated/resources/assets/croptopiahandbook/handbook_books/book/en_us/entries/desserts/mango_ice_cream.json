@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:mango_ice_cream",
+  "name": "item.croptopia.mango_ice_cream",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:mango_ice_cream"
+    }
+  ],
+  "sortnum": 14
+}

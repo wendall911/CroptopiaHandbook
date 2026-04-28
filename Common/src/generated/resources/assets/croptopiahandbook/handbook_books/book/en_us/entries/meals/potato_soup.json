@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:potato_soup",
+  "name": "item.croptopia.potato_soup",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:potato_soup"
+    }
+  ],
+  "sortnum": 171
+}

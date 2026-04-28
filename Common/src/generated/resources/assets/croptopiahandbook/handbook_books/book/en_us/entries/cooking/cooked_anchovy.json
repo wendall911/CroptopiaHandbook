@@ -1,0 +1,16 @@
+{
+  "category": "croptopiahandbook:cooking",
+  "icon": "croptopia:cooked_anchovy",
+  "name": "item.croptopia.cooked_anchovy",
+  "pages": [
+    {
+      "type": "handbook:smoking",
+      "recipe": "croptopia:cooked_anchovy_from_smoking_anchovy"
+    },
+    {
+      "type": "handbook:smelting",
+      "recipe": "croptopia:cooked_anchovy_from_anchovy"
+    }
+  ],
+  "sortnum": 95
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:roasted_radishes",
+  "name": "item.croptopia.roasted_radishes",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:roasted_radishes"
+    }
+  ],
+  "sortnum": 103
+}

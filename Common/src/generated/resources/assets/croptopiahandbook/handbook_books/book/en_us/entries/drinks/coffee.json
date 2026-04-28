@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:coffee",
+  "name": "item.croptopia.coffee",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:coffee"
+    }
+  ],
+  "sortnum": 51
+}

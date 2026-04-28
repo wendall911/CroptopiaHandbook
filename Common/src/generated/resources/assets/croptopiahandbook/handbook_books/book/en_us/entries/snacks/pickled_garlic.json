@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:pickled_garlic",
+  "name": "item.croptopia.pickled_garlic",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pickled_garlic"
+    }
+  ],
+  "sortnum": 211
+}

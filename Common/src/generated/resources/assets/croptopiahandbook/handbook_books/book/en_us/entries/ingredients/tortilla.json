@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:tortilla",
+  "name": "item.croptopia.tortilla",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:tortilla"
+    }
+  ],
+  "sortnum": 77
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:utensils",
+  "icon": "croptopia:cooking_pot",
+  "name": "item.croptopia.cooking_pot",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cooking_pot"
+    }
+  ],
+  "sortnum": 247
+}

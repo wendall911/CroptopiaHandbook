@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:cheese",
+  "name": "item.croptopia.cheese",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cheese"
+    }
+  ],
+  "sortnum": 68
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:melon_juice",
+  "name": "item.croptopia.melon_juice",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:melon_juice"
+    }
+  ],
+  "sortnum": 32
+}

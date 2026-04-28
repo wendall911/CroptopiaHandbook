@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:roasted_sunflower_seeds",
+  "name": "item.croptopia.roasted_sunflower_seeds",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:roasted_sunflower_seeds"
+    }
+  ],
+  "sortnum": 72
+}

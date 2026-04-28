@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:steamed_crab",
+  "name": "item.croptopia.steamed_crab",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:steamed_crab"
+    }
+  ],
+  "sortnum": 229
+}

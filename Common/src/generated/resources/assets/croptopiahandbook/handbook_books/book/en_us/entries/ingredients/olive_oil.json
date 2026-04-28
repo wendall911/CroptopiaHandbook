@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:olive_oil",
+  "name": "item.croptopia.olive_oil",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:olive_oil"
+    }
+  ],
+  "sortnum": 59
+}

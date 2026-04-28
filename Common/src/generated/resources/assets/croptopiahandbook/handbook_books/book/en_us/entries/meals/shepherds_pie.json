@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:shepherds_pie",
+  "name": "item.croptopia.shepherds_pie",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:shepherds_pie"
+    }
+  ],
+  "sortnum": 195
+}

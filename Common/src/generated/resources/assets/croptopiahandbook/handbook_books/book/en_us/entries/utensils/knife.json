@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:utensils",
+  "icon": "croptopia:knife",
+  "name": "item.croptopia.knife",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:knife"
+    }
+  ],
+  "sortnum": 250
+}

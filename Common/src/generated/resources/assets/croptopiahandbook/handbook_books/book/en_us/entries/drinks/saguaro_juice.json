@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:saguaro_juice",
+  "name": "item.croptopia.saguaro_juice",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:saguaro_juice"
+    }
+  ],
+  "sortnum": 43
+}

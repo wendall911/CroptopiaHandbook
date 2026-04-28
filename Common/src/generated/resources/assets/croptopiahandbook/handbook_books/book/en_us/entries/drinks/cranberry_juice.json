@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:cranberry_juice",
+  "name": "item.croptopia.cranberry_juice",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cranberry_juice"
+    }
+  ],
+  "sortnum": 55
+}

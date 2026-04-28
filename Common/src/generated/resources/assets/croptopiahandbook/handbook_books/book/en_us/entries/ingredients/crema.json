@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:crema",
+  "name": "item.croptopia.crema",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:crema"
+    }
+  ],
+  "sortnum": 61
+}

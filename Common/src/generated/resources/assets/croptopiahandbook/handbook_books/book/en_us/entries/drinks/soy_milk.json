@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:soy_milk",
+  "name": "item.croptopia.soy_milk",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:soy_milk"
+    }
+  ],
+  "sortnum": 45
+}

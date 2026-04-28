@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:bacon",
+  "name": "item.croptopia.bacon",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:bacon"
+    }
+  ],
+  "sortnum": 62
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:cinnamon_roll",
+  "name": "item.croptopia.cinnamon_roll",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cinnamon_roll"
+    }
+  ],
+  "sortnum": 15
+}

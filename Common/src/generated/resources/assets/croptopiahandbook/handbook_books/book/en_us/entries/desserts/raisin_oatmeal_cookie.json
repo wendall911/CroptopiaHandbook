@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:raisin_oatmeal_cookie",
+  "name": "item.croptopia.raisin_oatmeal_cookie",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:raisin_oatmeal_cookie"
+    }
+  ],
+  "sortnum": 30
+}

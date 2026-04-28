@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:deep_fried_shrimp",
+  "name": "item.croptopia.deep_fried_shrimp",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:deep_fried_shrimp"
+    }
+  ],
+  "sortnum": 134
+}

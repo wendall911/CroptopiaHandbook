@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:brownies",
+  "name": "item.croptopia.brownies",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:brownies"
+    }
+  ],
+  "sortnum": 27
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:orange_chicken",
+  "name": "item.croptopia.orange_chicken",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:orange_chicken"
+    }
+  ],
+  "sortnum": 101
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:spaghetti_squash",
+  "name": "item.croptopia.spaghetti_squash",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:spaghetti_squash"
+    }
+  ],
+  "sortnum": 108
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:pumpkin_bars",
+  "name": "item.croptopia.pumpkin_bars",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pumpkin_bars"
+    }
+  ],
+  "sortnum": 202
+}

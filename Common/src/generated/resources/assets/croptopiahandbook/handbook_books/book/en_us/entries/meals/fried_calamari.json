@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:fried_calamari",
+  "name": "item.croptopia.fried_calamari",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:fried_calamari"
+    }
+  ],
+  "sortnum": 185
+}

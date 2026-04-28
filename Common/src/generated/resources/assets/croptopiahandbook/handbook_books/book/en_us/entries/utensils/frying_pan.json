@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:utensils",
+  "icon": "croptopia:frying_pan",
+  "name": "item.croptopia.frying_pan",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:frying_pan"
+    }
+  ],
+  "sortnum": 249
+}

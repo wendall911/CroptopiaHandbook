@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:pineapple_chicken",
+  "name": "item.croptopia.pineapple_chicken",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pineapple_chicken"
+    }
+  ],
+  "sortnum": 114
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:tea",
+  "name": "item.croptopia.tea",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:tea"
+    }
+  ],
+  "sortnum": 46
+}

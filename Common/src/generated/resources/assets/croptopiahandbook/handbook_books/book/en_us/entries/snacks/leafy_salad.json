@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:leafy_salad",
+  "name": "item.croptopia.leafy_salad",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:leafy_salad"
+    }
+  ],
+  "sortnum": 222
+}

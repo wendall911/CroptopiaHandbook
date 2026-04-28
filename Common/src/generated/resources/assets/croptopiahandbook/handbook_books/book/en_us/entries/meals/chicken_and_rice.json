@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:chicken_and_rice",
+  "name": "item.croptopia.chicken_and_rice",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:chicken_and_rice"
+    }
+  ],
+  "sortnum": 124
+}

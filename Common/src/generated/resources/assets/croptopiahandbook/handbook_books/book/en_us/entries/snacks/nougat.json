@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:nougat",
+  "name": "item.croptopia.nougat",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:nougat"
+    }
+  ],
+  "sortnum": 241
+}

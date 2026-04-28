@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:grilled_cheese",
+  "name": "item.croptopia.grilled_cheese",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:grilled_cheese"
+    }
+  ],
+  "sortnum": 196
+}

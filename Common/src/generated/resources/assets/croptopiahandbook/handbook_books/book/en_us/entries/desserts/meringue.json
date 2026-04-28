@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:meringue",
+  "name": "item.croptopia.meringue",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:meringue"
+    }
+  ],
+  "sortnum": 25
+}

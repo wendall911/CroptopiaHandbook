@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:cashew_chicken",
+  "name": "item.croptopia.cashew_chicken",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cashew_chicken"
+    }
+  ],
+  "sortnum": 187
+}

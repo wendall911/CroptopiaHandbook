@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:kale_chips",
+  "name": "item.croptopia.kale_chips",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:kale_chips"
+    }
+  ],
+  "sortnum": 221
+}

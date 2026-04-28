@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:cornish_pasty",
+  "name": "item.croptopia.cornish_pasty",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cornish_pasty"
+    }
+  ],
+  "sortnum": 26
+}

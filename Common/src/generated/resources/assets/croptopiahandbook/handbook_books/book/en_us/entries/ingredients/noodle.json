@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:noodle",
+  "name": "item.croptopia.noodle",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:noodle"
+    }
+  ],
+  "sortnum": 79
+}

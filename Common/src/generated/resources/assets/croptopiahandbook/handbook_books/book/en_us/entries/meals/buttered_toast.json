@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:buttered_toast",
+  "name": "item.croptopia.buttered_toast",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:buttered_toast"
+    }
+  ],
+  "sortnum": 140
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:ham_sandwich",
+  "name": "item.croptopia.ham_sandwich",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:ham_sandwich"
+    }
+  ],
+  "sortnum": 198
+}

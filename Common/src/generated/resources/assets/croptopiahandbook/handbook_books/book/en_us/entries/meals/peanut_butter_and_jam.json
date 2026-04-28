@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:peanut_butter_and_jam",
+  "name": "item.croptopia.peanut_butter_and_jam",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:peanut_butter_and_jam"
+    }
+  ],
+  "sortnum": 104
+}

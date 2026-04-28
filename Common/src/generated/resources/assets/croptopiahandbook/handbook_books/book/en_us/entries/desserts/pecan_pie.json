@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:pecan_pie",
+  "name": "item.croptopia.pecan_pie",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pecan_pie"
+    }
+  ],
+  "sortnum": 28
+}

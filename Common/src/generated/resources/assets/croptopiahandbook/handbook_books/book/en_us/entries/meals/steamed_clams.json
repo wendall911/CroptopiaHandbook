@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:steamed_clams",
+  "name": "item.croptopia.steamed_clams",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:steamed_clams"
+    }
+  ],
+  "sortnum": 106
+}

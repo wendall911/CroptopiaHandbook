@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:teriyaki_chicken",
+  "name": "item.croptopia.teriyaki_chicken",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:teriyaki_chicken"
+    }
+  ],
+  "sortnum": 182
+}

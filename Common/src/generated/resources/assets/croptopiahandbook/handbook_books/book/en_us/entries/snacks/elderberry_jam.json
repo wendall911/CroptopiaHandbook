@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:elderberry_jam",
+  "name": "item.croptopia.elderberry_jam",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:elderberry_jam"
+    }
+  ],
+  "sortnum": 220
+}

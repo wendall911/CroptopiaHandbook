@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:chimichanga",
+  "name": "item.croptopia.chimichanga",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:chimichanga"
+    }
+  ],
+  "sortnum": 120
+}

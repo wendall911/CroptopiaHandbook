@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:butter",
+  "name": "item.croptopia.butter",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:butter"
+    }
+  ],
+  "sortnum": 64
+}

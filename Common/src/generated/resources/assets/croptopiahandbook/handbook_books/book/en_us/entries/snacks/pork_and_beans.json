@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:pork_and_beans",
+  "name": "item.croptopia.pork_and_beans",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pork_and_beans"
+    }
+  ],
+  "sortnum": 237
+}

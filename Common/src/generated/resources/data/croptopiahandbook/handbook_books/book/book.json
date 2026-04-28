@@ -1,0 +1,10 @@
+{
+  "custom_book_item": "croptopia:guide",
+  "dont_generate_book": true,
+  "i18n": true,
+  "landing_text": "info.croptopia.guide.intro",
+  "name": "item.croptopia.guide",
+  "show_progress": false,
+  "subtitle": "advancements.croptopia.getseed.title",
+  "use_blocky_font": false
+}

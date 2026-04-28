@@ -1,0 +1,302 @@
+{
+  "category": "croptopiahandbook:crops",
+  "icon": "croptopia:eggplant_seed",
+  "name": "info.croptopia.guide.crops.crops.name",
+  "pages": [
+    {
+      "type": "handbook:text",
+      "text": "info.croptopia.guide.crops.crops.details"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:artichoke,croptopia:artichoke_seed,croptopia:artichoke_seed",
+      "title": "block.croptopia.artichoke_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:asparagus,croptopia:asparagus_seed,croptopia:asparagus_seed",
+      "title": "block.croptopia.asparagus_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:barley,croptopia:barley_seed,croptopia:barley_seed",
+      "title": "block.croptopia.barley_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:basil,croptopia:basil_seed,croptopia:basil_seed",
+      "title": "block.croptopia.basil_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:bellpepper,croptopia:bellpepper_seed,croptopia:bellpepper_seed",
+      "title": "block.croptopia.bellpepper_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:blackbean,croptopia:blackbean_seed,croptopia:blackbean_seed",
+      "title": "block.croptopia.blackbean_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:blackberry,croptopia:blackberry_seed,croptopia:blackberry_seed",
+      "title": "block.croptopia.blackberry_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:blueberry,croptopia:blueberry_seed,croptopia:blueberry_seed",
+      "title": "block.croptopia.blueberry_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:broccoli,croptopia:broccoli_seed,croptopia:broccoli_seed",
+      "title": "block.croptopia.broccoli_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:cabbage,croptopia:cabbage_seed,croptopia:cabbage_seed",
+      "title": "block.croptopia.cabbage_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:cantaloupe,croptopia:cantaloupe_seed,croptopia:cantaloupe_seed",
+      "title": "block.croptopia.cantaloupe_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:cauliflower,croptopia:cauliflower_seed,croptopia:cauliflower_seed",
+      "title": "block.croptopia.cauliflower_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:celery,croptopia:celery_seed,croptopia:celery_seed",
+      "title": "block.croptopia.celery_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:chile_pepper,croptopia:chile_pepper_seed,croptopia:chile_pepper_seed",
+      "title": "block.croptopia.chile_pepper_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:coffee_beans,croptopia:coffee_seed,croptopia:coffee_seed",
+      "title": "block.croptopia.coffee_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:corn,croptopia:corn_seed,croptopia:corn_seed",
+      "title": "block.croptopia.corn_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:cranberry,croptopia:cranberry_seed,croptopia:cranberry_seed",
+      "title": "block.croptopia.cranberry_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:cucumber,croptopia:cucumber_seed,croptopia:cucumber_seed",
+      "title": "block.croptopia.cucumber_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:currant,croptopia:currant_seed,croptopia:currant_seed",
+      "title": "block.croptopia.currant_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:eggplant,croptopia:eggplant_seed,croptopia:eggplant_seed",
+      "title": "block.croptopia.eggplant_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:elderberry,croptopia:elderberry_seed,croptopia:elderberry_seed",
+      "title": "block.croptopia.elderberry_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:garlic,croptopia:garlic_seed,croptopia:garlic_seed",
+      "title": "block.croptopia.garlic_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:ginger,croptopia:ginger_seed,croptopia:ginger_seed",
+      "title": "block.croptopia.ginger_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:grape,croptopia:grape_seed,croptopia:grape_seed",
+      "title": "block.croptopia.grape_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:greenbean,croptopia:greenbean_seed,croptopia:greenbean_seed",
+      "title": "block.croptopia.greenbean_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:greenonion,croptopia:greenonion_seed,croptopia:greenonion_seed",
+      "title": "block.croptopia.greenonion_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:honeydew,croptopia:honeydew_seed,croptopia:honeydew_seed",
+      "title": "block.croptopia.honeydew_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:hops,croptopia:hops_seed,croptopia:hops_seed",
+      "title": "block.croptopia.hops_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:kale,croptopia:kale_seed,croptopia:kale_seed",
+      "title": "block.croptopia.kale_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:kiwi,croptopia:kiwi_seed,croptopia:kiwi_seed",
+      "title": "block.croptopia.kiwi_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:leek,croptopia:leek_seed,croptopia:leek_seed",
+      "title": "block.croptopia.leek_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:lettuce,croptopia:lettuce_seed,croptopia:lettuce_seed",
+      "title": "block.croptopia.lettuce_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:mustard,croptopia:mustard_seed,croptopia:mustard_seed",
+      "title": "block.croptopia.mustard_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:oat,croptopia:oat_seed,croptopia:oat_seed",
+      "title": "block.croptopia.oat_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:olive,croptopia:olive_seed,croptopia:olive_seed",
+      "title": "block.croptopia.olive_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:onion,croptopia:onion_seed,croptopia:onion_seed",
+      "title": "block.croptopia.onion_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:peanut,croptopia:peanut_seed,croptopia:peanut_seed",
+      "title": "block.croptopia.peanut_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:pepper,croptopia:pepper_seed,croptopia:pepper_seed",
+      "title": "block.croptopia.pepper_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:pineapple,croptopia:pineapple_seed,croptopia:pineapple_seed",
+      "title": "block.croptopia.pineapple_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:radish,croptopia:radish_seed,croptopia:radish_seed",
+      "title": "block.croptopia.radish_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:raspberry,croptopia:raspberry_seed,croptopia:raspberry_seed",
+      "title": "block.croptopia.raspberry_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:rhubarb,croptopia:rhubarb_seed,croptopia:rhubarb_seed",
+      "title": "block.croptopia.rhubarb_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:rice,croptopia:rice_seed,croptopia:rice_seed",
+      "title": "block.croptopia.rice_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:rutabaga,croptopia:rutabaga_seed,croptopia:rutabaga_seed",
+      "title": "block.croptopia.rutabaga_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:saguaro,croptopia:saguaro_seed,croptopia:saguaro_seed",
+      "title": "block.croptopia.saguaro_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:soybean,croptopia:soybean_seed,croptopia:soybean_seed",
+      "title": "block.croptopia.soybean_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:spinach,croptopia:spinach_seed,croptopia:spinach_seed",
+      "title": "block.croptopia.spinach_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:squash,croptopia:squash_seed,croptopia:squash_seed",
+      "title": "block.croptopia.squash_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:strawberry,croptopia:strawberry_seed,croptopia:strawberry_seed",
+      "title": "block.croptopia.strawberry_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:sweetpotato,croptopia:sweetpotato_seed,croptopia:sweetpotato_seed",
+      "title": "block.croptopia.sweetpotato_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:tea_leaves,croptopia:tea_seed,croptopia:tea_seed",
+      "title": "block.croptopia.tea_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:tomatillo,croptopia:tomatillo_seed,croptopia:tomatillo_seed",
+      "title": "block.croptopia.tomatillo_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:tomato,croptopia:tomato_seed,croptopia:tomato_seed",
+      "title": "block.croptopia.tomato_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:turmeric,croptopia:turmeric_seed,croptopia:turmeric_seed",
+      "title": "block.croptopia.turmeric_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:turnip,croptopia:turnip_seed,croptopia:turnip_seed",
+      "title": "block.croptopia.turnip_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:vanilla,croptopia:vanilla_seeds,croptopia:vanilla_seeds",
+      "title": "block.croptopia.vanilla_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:yam,croptopia:yam_seed,croptopia:yam_seed",
+      "title": "block.croptopia.yam_crop"
+    },
+    {
+      "type": "handbook:spotlight",
+      "item": "croptopia:zucchini,croptopia:zucchini_seed,croptopia:zucchini_seed",
+      "title": "block.croptopia.zucchini_crop"
+    }
+  ],
+  "sortnum": 252
+}

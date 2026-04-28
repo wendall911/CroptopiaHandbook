@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:roasted_turnips",
+  "name": "item.croptopia.roasted_turnips",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:roasted_turnips"
+    }
+  ],
+  "sortnum": 141
+}

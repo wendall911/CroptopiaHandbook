@@ -1,0 +1,20 @@
+{
+  "category": "croptopiahandbook:cooking",
+  "icon": "croptopia:raisins",
+  "name": "item.croptopia.raisins",
+  "pages": [
+    {
+      "type": "handbook:campfire",
+      "recipe": "croptopia:raisins"
+    },
+    {
+      "type": "handbook:smoking",
+      "recipe": "croptopia:raisins_from_smoking_grape"
+    },
+    {
+      "type": "handbook:smelting",
+      "recipe": "croptopia:raisins_from_grape"
+    }
+  ],
+  "sortnum": 92
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:yam_jam",
+  "name": "item.croptopia.yam_jam",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:yam_jam"
+    }
+  ],
+  "sortnum": 3
+}

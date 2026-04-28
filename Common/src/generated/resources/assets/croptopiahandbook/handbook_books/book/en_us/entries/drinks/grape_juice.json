@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:grape_juice",
+  "name": "item.croptopia.grape_juice",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:grape_juice"
+    }
+  ],
+  "sortnum": 54
+}

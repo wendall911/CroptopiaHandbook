@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:sweet_potato_fries",
+  "name": "item.croptopia.steamed_rice",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:steamed_rice"
+    }
+  ],
+  "sortnum": 239
+}

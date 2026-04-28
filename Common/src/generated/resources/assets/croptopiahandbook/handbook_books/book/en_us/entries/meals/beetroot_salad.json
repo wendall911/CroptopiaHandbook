@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:beetroot_salad",
+  "name": "item.croptopia.beetroot_salad",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:beetroot_salad"
+    }
+  ],
+  "sortnum": 162
+}

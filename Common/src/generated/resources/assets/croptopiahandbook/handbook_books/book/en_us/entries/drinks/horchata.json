@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:horchata",
+  "name": "item.croptopia.horchata",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:horchata"
+    }
+  ],
+  "sortnum": 35
+}

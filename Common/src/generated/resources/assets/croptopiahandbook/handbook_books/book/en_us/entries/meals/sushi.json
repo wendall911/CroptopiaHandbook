@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:sushi",
+  "name": "item.croptopia.sushi",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:sushi"
+    }
+  ],
+  "sortnum": 144
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:quesadilla",
+  "name": "item.croptopia.quesadilla",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:quesadilla"
+    }
+  ],
+  "sortnum": 177
+}

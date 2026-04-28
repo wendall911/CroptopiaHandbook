@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:fried_frog_legs",
+  "name": "item.croptopia.fried_frog_legs",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:fried_frog_legs"
+    }
+  ],
+  "sortnum": 236
+}

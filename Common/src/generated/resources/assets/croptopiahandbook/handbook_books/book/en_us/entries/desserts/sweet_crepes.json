@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:sweet_crepes",
+  "name": "item.croptopia.sweet_crepes",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:sweet_crepes"
+    }
+  ],
+  "sortnum": 1
+}

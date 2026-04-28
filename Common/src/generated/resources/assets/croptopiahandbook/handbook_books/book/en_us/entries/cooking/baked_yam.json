@@ -1,0 +1,16 @@
+{
+  "category": "croptopiahandbook:cooking",
+  "icon": "croptopia:baked_yam",
+  "name": "item.croptopia.baked_yam",
+  "pages": [
+    {
+      "type": "handbook:smoking",
+      "recipe": "croptopia:baked_yam_from_smoking_yam"
+    },
+    {
+      "type": "handbook:smelting",
+      "recipe": "croptopia:baked_yam_from_yam"
+    }
+  ],
+  "sortnum": 88
+}

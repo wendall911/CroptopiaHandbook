@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:protein_bar",
+  "name": "item.croptopia.protein_bar",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:protein_bar"
+    }
+  ],
+  "sortnum": 215
+}

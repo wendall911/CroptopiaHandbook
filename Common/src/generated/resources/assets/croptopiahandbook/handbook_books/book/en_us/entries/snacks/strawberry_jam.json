@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:strawberry_jam",
+  "name": "item.croptopia.strawberry_jam",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:strawberry_jam"
+    }
+  ],
+  "sortnum": 204
+}

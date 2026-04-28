@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:wine",
+  "name": "item.croptopia.wine",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:wine"
+    }
+  ],
+  "sortnum": 40
+}

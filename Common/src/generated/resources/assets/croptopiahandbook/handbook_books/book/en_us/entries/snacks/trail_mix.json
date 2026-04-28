@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:trail_mix",
+  "name": "item.croptopia.trail_mix",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:trail_mix"
+    }
+  ],
+  "sortnum": 225
+}

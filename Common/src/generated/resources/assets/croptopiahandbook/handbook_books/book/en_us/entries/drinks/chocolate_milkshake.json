@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:chocolate_milkshake",
+  "name": "item.croptopia.chocolate_milkshake",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:chocolate_milkshake"
+    }
+  ],
+  "sortnum": 39
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:tofuburger",
+  "name": "item.croptopia.tofuburger",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:tofuburger"
+    }
+  ],
+  "sortnum": 154
+}

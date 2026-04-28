@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:cherry_pie",
+  "name": "item.croptopia.cherry_pie",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cherry_pie"
+    }
+  ],
+  "sortnum": 12
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:pepperoni",
+  "name": "item.croptopia.pepperoni",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pepperoni"
+    }
+  ],
+  "sortnum": 69
+}

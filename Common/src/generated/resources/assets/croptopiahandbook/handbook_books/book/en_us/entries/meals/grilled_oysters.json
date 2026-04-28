@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:grilled_oysters",
+  "name": "item.croptopia.grilled_oysters",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:grilled_oysters"
+    }
+  ],
+  "sortnum": 99
+}

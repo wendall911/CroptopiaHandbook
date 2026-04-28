@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:enchilada",
+  "name": "item.croptopia.fajitas",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:fajitas"
+    }
+  ],
+  "sortnum": 191
+}

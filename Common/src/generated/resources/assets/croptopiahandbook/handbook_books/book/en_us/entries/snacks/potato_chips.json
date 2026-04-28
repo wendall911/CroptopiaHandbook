@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:potato_chips",
+  "name": "item.croptopia.potato_chips",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:potato_chips"
+    }
+  ],
+  "sortnum": 213
+}

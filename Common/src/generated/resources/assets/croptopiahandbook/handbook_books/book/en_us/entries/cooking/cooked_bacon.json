@@ -1,0 +1,16 @@
+{
+  "category": "croptopiahandbook:cooking",
+  "icon": "croptopia:cooked_bacon",
+  "name": "item.croptopia.cooked_bacon",
+  "pages": [
+    {
+      "type": "handbook:smoking",
+      "recipe": "croptopia:cooked_bacon_from_smoking_bacon"
+    },
+    {
+      "type": "handbook:smelting",
+      "recipe": "croptopia:cooked_bacon_from_bacon"
+    }
+  ],
+  "sortnum": 94
+}

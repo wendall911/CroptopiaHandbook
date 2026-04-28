@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:rum_raisin_ice_cream",
+  "name": "item.croptopia.rum_raisin_ice_cream",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:rum_raisin_ice_cream"
+    }
+  ],
+  "sortnum": -1
+}

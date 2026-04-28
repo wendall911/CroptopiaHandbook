@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:eton_mess",
+  "name": "item.croptopia.eton_mess",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:eton_mess"
+    }
+  ],
+  "sortnum": 9
+}

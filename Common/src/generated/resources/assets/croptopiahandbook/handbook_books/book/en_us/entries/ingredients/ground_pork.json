@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:ground_pork",
+  "name": "item.croptopia.ground_pork",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:ground_pork"
+    }
+  ],
+  "sortnum": 71
+}

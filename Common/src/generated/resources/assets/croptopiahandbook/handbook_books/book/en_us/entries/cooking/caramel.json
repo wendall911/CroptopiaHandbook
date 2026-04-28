@@ -1,0 +1,20 @@
+{
+  "category": "croptopiahandbook:cooking",
+  "icon": "croptopia:caramel",
+  "name": "item.croptopia.caramel",
+  "pages": [
+    {
+      "type": "handbook:campfire",
+      "recipe": "croptopia:caramel"
+    },
+    {
+      "type": "handbook:smoking",
+      "recipe": "croptopia:caramel_from_smoking_sugar"
+    },
+    {
+      "type": "handbook:smelting",
+      "recipe": "croptopia:caramel_from_sugar"
+    }
+  ],
+  "sortnum": 98
+}

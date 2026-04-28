@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:chocolate",
+  "name": "item.croptopia.chocolate",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:chocolate"
+    }
+  ],
+  "sortnum": 58
+}

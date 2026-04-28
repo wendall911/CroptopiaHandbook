@@ -1,0 +1,24 @@
+{
+  "category": "croptopiahandbook:cooking",
+  "icon": "croptopia:cooked_calamari",
+  "name": "item.croptopia.cooked_calamari",
+  "pages": [
+    {
+      "type": "handbook:smoking",
+      "recipe": "croptopia:cooked_calamari_from_smoking_calamari"
+    },
+    {
+      "type": "handbook:smelting",
+      "recipe": "croptopia:cooked_calamari_from_calamari"
+    },
+    {
+      "type": "handbook:smoking",
+      "recipe": "croptopia:cooked_calamari_from_smoking_glowing_calamari"
+    },
+    {
+      "type": "handbook:smelting",
+      "recipe": "croptopia:cooked_calamari_from_glowing_calamari"
+    }
+  ],
+  "sortnum": 97
+}

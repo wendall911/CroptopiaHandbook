@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:rum",
+  "name": "item.croptopia.rum",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:rum"
+    }
+  ],
+  "sortnum": 52
+}

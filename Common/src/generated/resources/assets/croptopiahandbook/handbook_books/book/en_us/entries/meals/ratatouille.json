@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:ratatouille",
+  "name": "item.croptopia.ratatouille",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:ratatouille"
+    }
+  ],
+  "sortnum": 166
+}

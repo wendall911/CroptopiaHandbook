@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:nutty_cookie",
+  "name": "item.croptopia.nutty_cookie",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:nutty_cookie"
+    }
+  ],
+  "sortnum": 10
+}

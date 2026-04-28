@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:grape_jam",
+  "name": "item.croptopia.grape_jam",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:grape_jam"
+    }
+  ],
+  "sortnum": 231
+}

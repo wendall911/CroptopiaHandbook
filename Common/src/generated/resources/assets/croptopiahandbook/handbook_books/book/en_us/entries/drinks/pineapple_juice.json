@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:pineapple_juice",
+  "name": "item.croptopia.pineapple_juice",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pineapple_juice"
+    }
+  ],
+  "sortnum": 53
+}

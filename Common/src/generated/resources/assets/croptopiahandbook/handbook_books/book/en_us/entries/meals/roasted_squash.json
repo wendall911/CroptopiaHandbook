@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:roasted_squash",
+  "name": "item.croptopia.roasted_squash",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:roasted_squash"
+    }
+  ],
+  "sortnum": 184
+}

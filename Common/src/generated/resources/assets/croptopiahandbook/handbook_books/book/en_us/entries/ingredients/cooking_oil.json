@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:cooking_oil",
+  "name": "item.croptopia.cooking_oil",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cooking_oil"
+    }
+  ],
+  "sortnum": 60
+}

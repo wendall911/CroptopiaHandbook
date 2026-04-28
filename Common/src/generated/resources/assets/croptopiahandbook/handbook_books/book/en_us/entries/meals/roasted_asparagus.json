@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:roasted_asparagus",
+  "name": "item.croptopia.roasted_asparagus",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:roasted_asparagus"
+    }
+  ],
+  "sortnum": 169
+}

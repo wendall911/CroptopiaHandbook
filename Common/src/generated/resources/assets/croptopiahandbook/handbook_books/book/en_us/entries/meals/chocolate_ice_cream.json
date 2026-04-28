@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:chocolate_ice_cream",
+  "name": "item.croptopia.chocolate_ice_cream",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:chocolate_ice_cream"
+    }
+  ],
+  "sortnum": 126
+}

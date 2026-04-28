@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:buttered_green_beans",
+  "name": "item.croptopia.beef_stir_fry",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:beef_stir_fry"
+    }
+  ],
+  "sortnum": 148
+}

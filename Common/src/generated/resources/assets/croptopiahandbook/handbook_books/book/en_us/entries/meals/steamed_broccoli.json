@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:steamed_broccoli",
+  "name": "item.croptopia.steamed_broccoli",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:steamed_broccoli"
+    }
+  ],
+  "sortnum": 197
+}

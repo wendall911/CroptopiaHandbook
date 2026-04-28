@@ -1,0 +1,16 @@
+{
+  "category": "croptopiahandbook:cooking",
+  "icon": "croptopia:cooked_ravager_meat",
+  "name": "item.croptopia.cooked_ravager_meat",
+  "pages": [
+    {
+      "type": "handbook:smoking",
+      "recipe": "croptopia:cooked_ravager_meat_from_smoking_raw_ravager_meat"
+    },
+    {
+      "type": "handbook:smelting",
+      "recipe": "croptopia:cooked_ravager_meat_from_raw_ravager_meat"
+    }
+  ],
+  "sortnum": 90
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:trifle",
+  "name": "item.croptopia.trifle",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:trifle"
+    }
+  ],
+  "sortnum": 31
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:goulash",
+  "name": "item.croptopia.goulash",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:goulash"
+    }
+  ],
+  "sortnum": 178
+}

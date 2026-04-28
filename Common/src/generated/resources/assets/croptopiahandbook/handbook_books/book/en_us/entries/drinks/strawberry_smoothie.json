@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:strawberry_smoothie",
+  "name": "item.croptopia.strawberry_smoothie",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:strawberry_smoothie"
+    }
+  ],
+  "sortnum": 38
+}

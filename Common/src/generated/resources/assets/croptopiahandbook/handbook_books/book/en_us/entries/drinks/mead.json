@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:mead",
+  "name": "item.croptopia.mead",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:mead"
+    }
+  ],
+  "sortnum": 34
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:cabbage_roll",
+  "name": "item.croptopia.cabbage_roll",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cabbage_roll"
+    }
+  ],
+  "sortnum": 113
+}

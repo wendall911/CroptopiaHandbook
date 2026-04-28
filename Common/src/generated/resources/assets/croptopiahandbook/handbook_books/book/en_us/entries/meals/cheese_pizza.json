@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:cheese_pizza",
+  "name": "item.croptopia.cheese_pizza",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cheese_pizza"
+    }
+  ],
+  "sortnum": 100
+}

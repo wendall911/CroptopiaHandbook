@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:caesar_salad",
+  "name": "item.croptopia.caesar_salad",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:caesar_salad"
+    }
+  ],
+  "sortnum": 223
+}

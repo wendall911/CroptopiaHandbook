@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:lemon_coconut_bar",
+  "name": "item.croptopia.lemon_coconut_bar",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:lemon_coconut_bar"
+    }
+  ],
+  "sortnum": 133
+}

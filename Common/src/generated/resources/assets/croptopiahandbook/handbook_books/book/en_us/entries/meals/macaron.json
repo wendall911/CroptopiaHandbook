@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:macaron",
+  "name": "item.croptopia.macaron",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:macaron"
+    }
+  ],
+  "sortnum": 176
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:cheese_cake",
+  "name": "item.croptopia.cheese_cake",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cheese_cake"
+    }
+  ],
+  "sortnum": 21
+}

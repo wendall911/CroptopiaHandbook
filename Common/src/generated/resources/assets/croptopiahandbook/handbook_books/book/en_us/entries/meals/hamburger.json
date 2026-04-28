@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:hamburger",
+  "name": "item.croptopia.hamburger",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:hamburger"
+    }
+  ],
+  "sortnum": 115
+}

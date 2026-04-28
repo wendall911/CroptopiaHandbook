@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:saucy_chips",
+  "name": "item.croptopia.saucy_chips",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:saucy_chips"
+    }
+  ],
+  "sortnum": 212
+}

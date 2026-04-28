@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:eggplant_parmesan",
+  "name": "item.croptopia.eggplant_parmesan",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:eggplant_parmesan"
+    }
+  ],
+  "sortnum": 130
+}

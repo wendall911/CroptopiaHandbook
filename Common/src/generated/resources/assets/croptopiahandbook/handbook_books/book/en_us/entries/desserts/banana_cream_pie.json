@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:banana_cream_pie",
+  "name": "item.croptopia.banana_cream_pie",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:banana_cream_pie"
+    }
+  ],
+  "sortnum": 7
+}

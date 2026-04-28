@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:cherry_jam",
+  "name": "item.croptopia.cherry_jam",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cherry_jam"
+    }
+  ],
+  "sortnum": 238
+}

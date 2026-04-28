@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:beef_stew",
+  "name": "item.croptopia.beef_stew",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:beef_stew"
+    }
+  ],
+  "sortnum": 170
+}

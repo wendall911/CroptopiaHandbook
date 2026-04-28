@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:soy_sauce",
+  "name": "item.croptopia.soy_sauce",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:soy_sauce"
+    }
+  ],
+  "sortnum": 56
+}

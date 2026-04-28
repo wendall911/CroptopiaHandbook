@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:limeade",
+  "name": "item.croptopia.limeade",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:limeade"
+    }
+  ],
+  "sortnum": 47
+}

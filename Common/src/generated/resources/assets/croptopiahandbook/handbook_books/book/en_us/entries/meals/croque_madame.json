@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:croque_madame",
+  "name": "item.croptopia.croque_madame",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:croque_madame"
+    }
+  ],
+  "sortnum": 116
+}

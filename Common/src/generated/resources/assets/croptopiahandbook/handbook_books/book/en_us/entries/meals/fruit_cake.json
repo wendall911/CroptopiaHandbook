@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:fruit_cake",
+  "name": "item.croptopia.fruit_cake",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:fruit_cake"
+    }
+  ],
+  "sortnum": 111
+}

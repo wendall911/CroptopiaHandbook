@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:lemonade",
+  "name": "item.croptopia.lemonade",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:lemonade"
+    }
+  ],
+  "sortnum": 41
+}

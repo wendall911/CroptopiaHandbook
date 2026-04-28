@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:pizza",
+  "name": "item.croptopia.pizza",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pizza"
+    }
+  ],
+  "sortnum": 193
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:rhubarb_pie",
+  "name": "item.croptopia.rhubarb_pie",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:rhubarb_pie"
+    }
+  ],
+  "sortnum": 13
+}

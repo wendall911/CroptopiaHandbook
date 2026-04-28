@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:cheeseburger",
+  "name": "item.croptopia.cheeseburger",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cheeseburger"
+    }
+  ],
+  "sortnum": 180
+}

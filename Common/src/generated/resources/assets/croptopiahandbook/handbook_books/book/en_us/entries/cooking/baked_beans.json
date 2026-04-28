@@ -1,0 +1,20 @@
+{
+  "category": "croptopiahandbook:cooking",
+  "icon": "croptopia:baked_beans",
+  "name": "item.croptopia.baked_beans",
+  "pages": [
+    {
+      "type": "handbook:campfire",
+      "recipe": "croptopia:baked_beans"
+    },
+    {
+      "type": "handbook:smoking",
+      "recipe": "croptopia:baked_beans_from_smoking_blackbean"
+    },
+    {
+      "type": "handbook:smelting",
+      "recipe": "croptopia:baked_beans_from_blackbean"
+    }
+  ],
+  "sortnum": 84
+}

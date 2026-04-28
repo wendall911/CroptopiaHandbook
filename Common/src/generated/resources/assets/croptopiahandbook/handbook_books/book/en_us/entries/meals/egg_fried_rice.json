@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:egg_fried_rice",
+  "name": "item.croptopia.egg_fried_rice",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:egg_fried_rice"
+    }
+  ],
+  "sortnum": 168
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:ingredients",
+  "icon": "croptopia:whipping_cream",
+  "name": "item.croptopia.whipping_cream",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:whipping_cream"
+    }
+  ],
+  "sortnum": 70
+}

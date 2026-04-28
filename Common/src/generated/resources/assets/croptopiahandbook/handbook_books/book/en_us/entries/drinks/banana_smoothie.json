@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:drinks",
+  "icon": "croptopia:banana_smoothie",
+  "name": "item.croptopia.banana_smoothie",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:banana_smoothie"
+    }
+  ],
+  "sortnum": 44
+}

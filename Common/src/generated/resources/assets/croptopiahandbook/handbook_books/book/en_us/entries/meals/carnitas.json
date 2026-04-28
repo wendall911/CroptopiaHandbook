@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:carnitas",
+  "name": "item.croptopia.carnitas",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:carnitas"
+    }
+  ],
+  "sortnum": 109
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:borscht",
+  "name": "item.croptopia.borscht",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:borscht"
+    }
+  ],
+  "sortnum": 129
+}

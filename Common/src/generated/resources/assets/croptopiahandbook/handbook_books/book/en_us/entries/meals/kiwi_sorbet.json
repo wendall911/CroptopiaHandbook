@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:kiwi_sorbet",
+  "name": "item.croptopia.kiwi_sorbet",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:kiwi_sorbet"
+    }
+  ],
+  "sortnum": 157
+}
