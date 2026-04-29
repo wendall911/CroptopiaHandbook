@@ -31,6 +31,7 @@ import handbook.api.data.EntryBuilder;
 import handbook.api.data.HandbookBookProvider;
 
 import croptopiahandbook.CroptopiaHandbook;
+import croptopiahandbook.data.handbook.CustomSpotlightPageBuilder;
 
 public class CroptopiaHandbookBookProvider extends HandbookBookProvider {
 
@@ -39,7 +40,6 @@ public class CroptopiaHandbookBookProvider extends HandbookBookProvider {
     private int entrySortNum = -1;
     private final Map<Item, String> ingredients = new HashMap<>(){{
         put(Content.PAPRIKA, ItemNamesV2.PAPRIKA);
-        put(Content.SALT, ItemNamesV2.SALT);
         put(Content.OLIVE_OIL, ItemNamesV2.OLIVE_OIL);
         put(Content.CHEESE, ItemNamesV2.CHEESE);
         put(Content.FLOUR, ItemNamesV2.FLOUR);
@@ -62,10 +62,9 @@ public class CroptopiaHandbookBookProvider extends HandbookBookProvider {
         put(Content.RAW_BACON, ItemNamesV2.RAW_BACON);
         put(Content.ROASTED_PUMPKIN_SEEDS, ItemNamesV2.ROASTED_PUMPKIN_SEEDS);
         put(Content.ROASTED_SUNFLOWER_SEEDS, ItemNamesV2.ROASTED_SUNFLOWER_SEEDS);
-        put(Content.SEA_LETTUCE, ItemNamesV2.SEA_LETTUCE);
-        put(Content.FROG_LEGS, ItemNamesV2.FROG_LEGS);
         put(Content.GROUND_PORK, ItemNamesV2.GROUND_PORK);
         put(Content.COOKING_OIL, ItemNamesV2.COOKING_OIL);
+        put(Content.PEANUT_BUTTER, ItemNamesV2.PEANUT_BUTTER);
     }};
     private final Map<Item, String> desserts = new HashMap<>(){{
         put(Content.MANGO_ICE_CREAM.asItem(), ItemNamesV2.MANGO_ICE_CREAM);
@@ -80,7 +79,6 @@ public class CroptopiaHandbookBookProvider extends HandbookBookProvider {
         put(Content.BANANA_CREAM_PIE, ItemNamesV2.BANANA_CREAM_PIE);
         put(Content.CANDY_CORN, ItemNamesV2.CANDY_CORN);
         put(Content.RUM_RAISIN_ICE_CREAM, ItemNamesV2.RUM_RAISIN_ICE_CREAM);
-        put(Content.CHEESE_CAKE, ItemNamesV2.CHEESE_CAKE);
         put(Content.BROWNIES, ItemNamesV2.BROWNIES);
         put(Content.SNICKER_DOODLE, ItemNamesV2.SNICKER_DOODLE);
         put(Content.BANANA_NUT_BREAD, ItemNamesV2.BANANA_NUT_BREAD);
@@ -90,17 +88,23 @@ public class CroptopiaHandbookBookProvider extends HandbookBookProvider {
         put(Content.NUTTY_COOKIE, ItemNamesV2.NUTTY_COOKIE);
         put(Content.CORNISH_PASTY, ItemNamesV2.CORNISH_PASTY);
         put(Content.ETON_MESS, ItemNamesV2.ETON_MESS);
-        put(Content.STICKY_TOFFEE_PUDDING, ItemNamesV2.CORNISH_PASTY);
+        put(Content.STICKY_TOFFEE_PUDDING, ItemNamesV2.STICKY_TOFFEE_PUDDING);
         put(Content.TRIFLE, ItemNamesV2.TRIFLE);
-        put(Content.SCONES, ItemNamesV2.CORNISH_PASTY);
-        put(Content.FIGGY_PUDDING, ItemNamesV2.CORNISH_PASTY);
-        put(Content.TREACLE_TART, ItemNamesV2.CORNISH_PASTY);
-        put(Content.TRES_LECHE_CAKE, ItemNamesV2.FAJITAS);
+        put(Content.SCONES, ItemNamesV2.SCONES);
+        put(Content.FIGGY_PUDDING, ItemNamesV2.FIGGY_PUDDING);
+        put(Content.TREACLE_TART, ItemNamesV2.TREACLE_TART);
+        put(Content.TRES_LECHE_CAKE, ItemNamesV2.TRES_LECHE_CAKE);
         put(Content.CANDIED_KUMQUATS, ItemNamesV2.CANDIED_KUMQUATS);
         put(Content.MERINGUE, ItemNamesV2.MERINGUE);
         put(Content.SWEET_CREPES, ItemNamesV2.SWEET_CREPES);
         put(Content.CINNAMON_ROLL, ItemNamesV2.CINNAMON_ROLL);
         put(Content.CARROT_CAKE, ItemNamesV2.CARROT_CAKE);
+        put(Content.CHOCOLATE_ICE_CREAM, ItemNamesV2.CHOCOLATE_ICE_CREAM);
+        put(Content.NOUGAT, ItemNamesV2.NOUGAT);
+        put(Content.MACARON, ItemNamesV2.MACARON);
+        put(Content.RHUBARB_CRISP, ItemNamesV2.RHUBARB_CRISP);
+        put(Content.KIWI_SORBET, ItemNamesV2.KIWI_SORBET);
+        put(Content.LEMON_COCONUT_BAR, ItemNamesV2.LEMON_COCONUT_BAR);
     }};
     private final Map<Item, String> drinks = new HashMap<>(){{
         put(Content.APPLE_JUICE.asItem(), ItemNamesV2.APPLE_JUICE);
@@ -151,9 +155,8 @@ public class CroptopiaHandbookBookProvider extends HandbookBookProvider {
         put(Content.TOAST_WITH_JAM, ItemNamesV2.TOAST_WITH_JAM);
         put(Content.HAM_SANDWICH, ItemNamesV2.HAM_SANDWICH);
         put(Content.PEANUT_BUTTER_AND_JAM, ItemNamesV2.PEANUT_BUTTER_AND_JAM);
-        put(Content.BLT, ItemNamesV2.PEANUT_BUTTER_AND_JAM);
+        put(Content.BLT, ItemNamesV2.BLT);
         put(Content.GRILLED_CHEESE, ItemNamesV2.GRILLED_CHEESE);
-        put(Content.TUNA_SANDWICH, ItemNamesV2.TUNA_SANDWICH);
         put(Content.CHEESEBURGER, ItemNamesV2.CHEESEBURGER);
         put(Content.HAMBURGER, ItemNamesV2.HAMBURGER);
         put(Content.TOFUBURGER, ItemNamesV2.TOFUBURGER);
@@ -162,10 +165,10 @@ public class CroptopiaHandbookBookProvider extends HandbookBookProvider {
         put(Content.CHEESE_PIZZA, ItemNamesV2.CHEESE_PIZZA);
         put(Content.PINEAPPLE_PEPPERONI_PIZZA, ItemNamesV2.PINEAPPLE_PEPPERONI_PIZZA);
         put(Content.LEMON_CHICKEN, ItemNamesV2.LEMON_CHICKEN);
-        put(Content.FRIED_CHICKEN, ItemNamesV2.LEMON_CHICKEN);
-        put(Content.CHICKEN_AND_NOODLES, ItemNamesV2.LEMON_CHICKEN);
-        put(Content.CHICKEN_AND_DUMPLINGS, ItemNamesV2.LEMON_CHICKEN);
-        put(Content.TOFU_AND_DUMPLINGS, ItemNamesV2.LEMON_CHICKEN);
+        put(Content.FRIED_CHICKEN, ItemNamesV2.FRIED_CHICKEN);
+        put(Content.CHICKEN_AND_NOODLES, ItemNamesV2.CHICKEN_AND_NOODLES);
+        put(Content.CHICKEN_AND_DUMPLINGS, ItemNamesV2.CHICKEN_AND_DUMPLINGS);
+        put(Content.TOFU_AND_DUMPLINGS, ItemNamesV2.TOFU_AND_DUMPLINGS);
         put(Content.SPAGHETTI_SQUASH, ItemNamesV2.SPAGHETTI_SQUASH);
         put(Content.CHICKEN_AND_RICE, ItemNamesV2.CHICKEN_AND_RICE);
         put(Content.TACO, ItemNamesV2.TACO);
@@ -176,10 +179,10 @@ public class CroptopiaHandbookBookProvider extends HandbookBookProvider {
         put(Content.TOSTADA, ItemNamesV2.TOSTADA);
         put(Content.CARNITAS, ItemNamesV2.CARNITAS);
         put(Content.FAJITAS, ItemNamesV2.FAJITAS);
-        put(Content.ENCHILADA, ItemNamesV2.FAJITAS);
-        put(Content.CHURROS, ItemNamesV2.FAJITAS);
-        put(Content.TAMALES, ItemNamesV2.FAJITAS);
-        put(Content.STUFFED_POBLANOS, ItemNamesV2.FAJITAS);
+        put(Content.ENCHILADA, ItemNamesV2.ENCHILADA);
+        put(Content.CHURROS, ItemNamesV2.CHURROS);
+        put(Content.TAMALES, ItemNamesV2.TAMALES);
+        put(Content.STUFFED_POBLANOS, ItemNamesV2.STUFFED_POBLANOS);
         put(Content.CHILI_RELLENO, ItemNamesV2.CHILI_RELLENO);
         put(Content.REFRIED_BEANS, ItemNamesV2.REFRIED_BEANS);
         put(Content.CHIMICHANGA, ItemNamesV2.CHIMICHANGA);
@@ -192,29 +195,24 @@ public class CroptopiaHandbookBookProvider extends HandbookBookProvider {
         put(Content.AVOCADO_TOAST, ItemNamesV2.AVOCADO_TOAST);
         put(Content.BEEF_STEW, ItemNamesV2.BEEF_STEW);
         put(Content.BEEF_STIR_FRY, ItemNamesV2.BEEF_STIR_FRY);
-        put(Content.BUTTERED_GREEN_BEANS, ItemNamesV2.BEEF_STIR_FRY);
-        put(Content.CHEESY_ASPARAGUS, ItemNamesV2.BEEF_STIR_FRY);
-        put(Content.CHOCOLATE_ICE_CREAM, ItemNamesV2.CHOCOLATE_ICE_CREAM);
+        put(Content.BUTTERED_GREEN_BEANS, ItemNamesV2.BUTTERED_GREEN_BEANS);
+        put(Content.CHEESY_ASPARAGUS, ItemNamesV2.CHEESY_ASPARAGUS);
         put(Content.EGGPLANT_PARMESAN, ItemNamesV2.EGGPLANT_PARMESAN);
         put(Content.FRUIT_CAKE, ItemNamesV2.FRUIT_CAKE);
         put(Content.GRILLED_EGGPLANT, ItemNamesV2.GRILLED_EGGPLANT);
-        put(Content.KIWI_SORBET, ItemNamesV2.KIWI_SORBET);
-        put(Content.LEMON_COCONUT_BAR, ItemNamesV2.LEMON_COCONUT_BAR);
         put(Content.NETHER_WART_STEW, ItemNamesV2.NETHER_WART_STEW);
-        put(Content.PEANUT_BUTTER, ItemNamesV2.PEANUT_BUTTER);
-        put(Content.PEANUT_BUTTER_W_CELERY, ItemNamesV2.PEANUT_BUTTER);
+        put(Content.PEANUT_BUTTER_W_CELERY, ItemNamesV2.PEANUT_BUTTER_W_CELERY);
         put(Content.POTATO_SOUP, ItemNamesV2.POTATO_SOUP);
         put(Content.RATATOUILLE, ItemNamesV2.RATATOUILLE);
-        put(Content.RHUBARB_CRISP, ItemNamesV2.RHUBARB_CRISP);
         put(Content.ROASTED_ASPARAGUS, ItemNamesV2.ROASTED_ASPARAGUS);
         put(Content.ROASTED_RADISHES, ItemNamesV2.ROASTED_RADISHES);
         put(Content.ROASTED_SQUASH, ItemNamesV2.ROASTED_SQUASH);
         put(Content.ROASTED_TURNIPS, ItemNamesV2.ROASTED_TURNIPS);
         put(Content.STEAMED_BROCCOLI, ItemNamesV2.STEAMED_BROCCOLI);
         put(Content.STEAMED_GREEN_BEANS, ItemNamesV2.STEAMED_GREEN_BEANS);
-        put(Content.STIR_FRY, ItemNamesV2.STEAMED_GREEN_BEANS);
-        put(Content.STUFFED_ARTICHOKE, ItemNamesV2.STEAMED_GREEN_BEANS);
-        put(Content.TOAST_SANDWICH, ItemNamesV2.STEAMED_GREEN_BEANS);
+        put(Content.STIR_FRY, ItemNamesV2.STIR_FRY);
+        put(Content.STUFFED_ARTICHOKE, ItemNamesV2.STUFFED_ARTICHOKE);
+        put(Content.TOAST_SANDWICH, ItemNamesV2.TOAST_SANDWICH);
         put(Content.PUMPKIN_SOUP, ItemNamesV2.PUMPKIN_SOUP);
         put(Content.CABBAGE_ROLL, ItemNamesV2.CABBAGE_ROLL);
         put(Content.BORSCHT, ItemNamesV2.BORSCHT);
@@ -232,17 +230,14 @@ public class CroptopiaHandbookBookProvider extends HandbookBookProvider {
         put(Content.CROQUE_MADAME, ItemNamesV2.CROQUE_MADAME);
         put(Content.CROQUE_MONSIEUR, ItemNamesV2.CROQUE_MONSIEUR);
         put(Content.DAUPHINE_POTATOES, ItemNamesV2.DAUPHINE_POTATOES);
-        put(Content.MACARON, ItemNamesV2.MACARON);
-        put(Content.QUICHE, ItemNamesV2.MACARON);
-        put(Content.SUNNY_SIDE_EGGS, ItemNamesV2.MACARON);
+        put(Content.QUICHE, ItemNamesV2.QUICHE);
+        put(Content.SUNNY_SIDE_EGGS, ItemNamesV2.SUNNY_SIDE_EGGS);
         put(Content.THE_BIG_BREAKFAST, ItemNamesV2.THE_BIG_BREAKFAST);
-        put(Content.BIBIMBAP, ItemNamesV2.PICKLED_ONIONS);
-        put(Content.TTEOKBOKKI, ItemNamesV2.TTEOKBOKKI);
+        put(Content.BIBIMBAP, ItemNamesV2.BIBIMBAP);
         put(Content.BIBIM_NENGMYUM, ItemNamesV2.BIBIM_NENGMYUM);
         put(Content.EGG_FRIED_RICE, ItemNamesV2.EGG_FRIED_RICE);
         put(Content.FRIED_RICE, ItemNamesV2.FRIED_RICE);
         put(Content.VEGGIE_FRIED_RICE, ItemNamesV2.VEGGIE_FRIED_RICE);
-        put(Content.SESAME_CHICKEN, ItemNamesV2.SESAME_CHICKEN);
         put(Content.ORANGE_CHICKEN, ItemNamesV2.ORANGE_CHICKEN);
         put(Content.PINEAPPLE_CHICKEN, ItemNamesV2.PINEAPPLE_CHICKEN);
         put(Content.TERYAKI_CHICKEN, ItemNamesV2.TERYAKI_CHICKEN);
@@ -262,40 +257,37 @@ public class CroptopiaHandbookBookProvider extends HandbookBookProvider {
         put(Content.KALE_CHIPS, ItemNamesV2.KALE_CHIPS);
         put(Content.POTATO_CHIPS, ItemNamesV2.POTATO_CHIPS);
         put(Content.STEAMED_RICE, ItemNamesV2.STEAMED_RICE);
-        put(Content.FRENCH_FRIES, ItemNamesV2.STEAMED_RICE);
-        put(Content.SWEET_POTATO_FRIES, ItemNamesV2.STEAMED_RICE);
-        put(Content.ONION_RINGS, ItemNamesV2.STEAMED_RICE);
-        put(Content.DOUGHNUT, ItemNamesV2.STEAMED_RICE);
-        put(Content.CUCUMBER_SALAD, ItemNamesV2.STEAMED_RICE);
+        put(Content.FRENCH_FRIES, ItemNamesV2.FRENCH_FRIES);
+        put(Content.SWEET_POTATO_FRIES, ItemNamesV2.SWEET_POTATO_FRIES);
+        put(Content.ONION_RINGS, ItemNamesV2.ONION_RINGS);
+        put(Content.DOUGHNUT, ItemNamesV2.DOUGHNUT);
+        put(Content.CUCUMBER_SALAD, ItemNamesV2.CUCUMBER_SALAD);
         put(Content.CAESAR_SALAD, ItemNamesV2.CAESAR_SALAD);
         put(Content.LEAFY_SALAD, ItemNamesV2.LEAFY_SALAD);
         put(Content.FRUIT_SALAD, ItemNamesV2.FRUIT_SALAD);
         put(Content.VEGGIE_SALAD, ItemNamesV2.VEGGIE_SALAD);
         put(Content.PORK_AND_BEANS, ItemNamesV2.PORK_AND_BEANS);
         put(Content.OATMEAL, ItemNamesV2.OATMEAL);
-        put(Content.LEEK_SOUP, ItemNamesV2.OATMEAL);
-        put(Content.YOGHURT, ItemNamesV2.OATMEAL);
+        put(Content.LEEK_SOUP, ItemNamesV2.LEEK_SOUP);
+        put(Content.YOGHURT, ItemNamesV2.YOGHURT);
         put(Content.SAUCY_CHIPS, ItemNamesV2.SAUCY_CHIPS);
-        put(Content.ROASTED_NUTS, ItemNamesV2.ROASTED_NUTS);
         put(Content.TRAIL_MIX, ItemNamesV2.TRAIL_MIX);
         put(Content.PROTEIN_BAR, ItemNamesV2.PROTEIN_BAR);
-        put(Content.NOUGAT, ItemNamesV2.NOUGAT);
         put(Content.PUMPKIN_BARS, ItemNamesV2.PUMPKIN_BARS);
         put(Content.CORN_BREAD, ItemNamesV2.CORN_BREAD);
         put(Content.STEAMED_CRAB, ItemNamesV2.STEAMED_CRAB);
-        put(Content.FRIED_FROG_LEGS, ItemNamesV2.FRIED_FROG_LEGS);
         put(Content.HASHED_BROWN, ItemNamesV2.HASHED_BROWN);
-        put(Content.SAUSAGE, ItemNamesV2.MACARON);
+        put(Content.SAUSAGE, ItemNamesV2.SAUSAGE);
         put(Content.PICKLED_CUCUMBER, ItemNamesV2.PICKLED_CUCUMBER);
         put(Content.PICKLED_BEETS, ItemNamesV2.PICKLED_BEETS);
         put(Content.PICKLED_RADISH, ItemNamesV2.PICKLED_RADISH);
         put(Content.PICKLED_GARLIC, ItemNamesV2.PICKLED_GARLIC);
         put(Content.PICKLED_ONIONS, ItemNamesV2.PICKLED_ONIONS);
         put(Content.PICKLED_GINGER, ItemNamesV2.PICKLED_ONIONS);
-        put(Content.KIMCHI, ItemNamesV2.PICKLED_ONIONS);
-        put(Content.SAUERKRAUT, ItemNamesV2.PICKLED_ONIONS);
-        put(Content.PICKLED_ANCHOVIES, ItemNamesV2.PICKLED_ONIONS);
-        put(Content.PICKLED_EGGS, ItemNamesV2.PICKLED_ONIONS);
+        put(Content.KIMCHI, ItemNamesV2.KIMCHI);
+        put(Content.SAUERKRAUT, ItemNamesV2.SAUERKRAUT);
+        put(Content.PICKLED_ANCHOVIES, ItemNamesV2.PICKLED_ANCHOVIES);
+        put(Content.PICKLED_EGGS, ItemNamesV2.PICKLED_EGGS);
     }};
 
     public CroptopiaHandbookBookProvider(@NonNull final PackOutput packOutput, CompletableFuture<Provider> lookupProvider) {
@@ -568,12 +560,16 @@ public class CroptopiaHandbookBookProvider extends HandbookBookProvider {
 
             String nameKey = croptopiaCrop(name);
 
-            cropsPlantsEntry.addSpotlightPage(
+            cropsPlantsEntry.addPage(new CustomSpotlightPageBuilder(
+                cropsPlantsEntry,
                 new ItemStackTemplate(farmlandCrop.asItem()),
                 new ItemStackTemplate(farmlandCrop.asBlock().asItem()),
                 new ItemStackTemplate(farmlandCrop.getSeedItem())
-            ).setTitle(nameKey).build();
+            )).setTitle(nameKey).setText(prefix("crops.crops.biomes"))
+            .setBiomes("croptopia:has_crop/" + farmlandCrop.name()).build();
         }
+
+        cropsPlantsEntry.build();
 
         EntryBuilder cropsTreesEntry = category.addEntry(
             "crops/trees",
@@ -587,13 +583,13 @@ public class CroptopiaHandbookBookProvider extends HandbookBookProvider {
             String name = treeCrop.name();
             String nameKey = croptopiaCrop(name);
 
-            cropsTreesEntry.addSpotlightPage(
+            cropsTreesEntry.addPage(new CustomSpotlightPageBuilder(
+                cropsTreesEntry,
                 new ItemStackTemplate(treeCrop.asItem()),
                 new ItemStackTemplate(treeCrop.getSaplingItem()),
                 new ItemStackTemplate(treeCrop.getLeavesItem())
-            ).setTitle(nameKey);
-
-            cropsTreesEntry.build();
+            )).setTitle(nameKey).setText(prefix("crops.trees.biomes"))
+            .setBiomes("croptopia:has_tree/" + name).build();
         }
 
         return category.build();

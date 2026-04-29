@@ -24,8 +24,10 @@ public class CroptopiaHandbookLanguageProvider extends FabricLanguageProvider {
         addBookEntry(translationBuilder, "crops.desc", "Information about the crops that you can find in Croptopia.");
         addBookEntry(translationBuilder, "crops.crops.name", "Plants");
         addBookEntry(translationBuilder, "crops.crops.details", "Crops can be found around the world. They have specific biomes that they will spawn in. In 2.0.0 crop spawning is now determined with datapacks rather than the 'category' of biome, it is now determined by the biomes name. If you would like certain crops added to modded biomes, make an issue on the Croptopia github page.");
+        addBookEntry(translationBuilder, "crops.crops.biomes", "This crop is found in the following biomes:");
         addBookEntry(translationBuilder, "crops.trees.name", "Trees");
         addBookEntry(translationBuilder, "crops.trees.details", "In the world you can find various trees with custom crops growing on them. To harvest them you can right click them when they're fully grown.");
+        addBookEntry(translationBuilder, "crops.trees.biomes", "This tree is found in the following biomes:");
         addBookEntry(translationBuilder, "desserts.name", "Desserts");
         addBookEntry(translationBuilder, "desserts.desc", "Sweet Treats");
         addBookEntry(translationBuilder, "drinks.name", "Drinks");
