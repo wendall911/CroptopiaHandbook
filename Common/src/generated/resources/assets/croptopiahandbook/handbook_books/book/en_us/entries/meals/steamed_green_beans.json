@@ -1,6 +1,6 @@
 {
   "category": "croptopiahandbook:meals",
-  "icon": "croptopia:toast_sandwich",
+  "icon": "croptopia:steamed_green_beans",
   "name": "item.croptopia.steamed_green_beans",
   "pages": [
     {
@@ -8,5 +8,5 @@
       "recipe": "croptopia:steamed_green_beans"
     }
   ],
-  "sortnum": 153
+  "sortnum": 117
 }

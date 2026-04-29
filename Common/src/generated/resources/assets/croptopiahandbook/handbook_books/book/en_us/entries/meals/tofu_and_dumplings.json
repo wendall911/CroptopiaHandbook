@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:tofu_and_dumplings",
+  "name": "item.croptopia.tofu_and_dumplings",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:tofu_and_dumplings"
+    }
+  ],
+  "sortnum": 112
+}

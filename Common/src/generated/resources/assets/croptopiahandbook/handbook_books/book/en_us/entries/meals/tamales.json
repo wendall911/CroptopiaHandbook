@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:tamales",
+  "name": "item.croptopia.tamales",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:tamales"
+    }
+  ],
+  "sortnum": 165
+}

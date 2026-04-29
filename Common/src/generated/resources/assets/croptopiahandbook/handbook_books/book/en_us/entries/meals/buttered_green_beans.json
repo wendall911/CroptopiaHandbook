@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:buttered_green_beans",
+  "name": "item.croptopia.buttered_green_beans",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:buttered_green_beans"
+    }
+  ],
+  "sortnum": 105
+}

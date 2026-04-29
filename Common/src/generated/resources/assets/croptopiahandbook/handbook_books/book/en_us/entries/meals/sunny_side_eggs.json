@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:sunny_side_eggs",
+  "name": "item.croptopia.sunny_side_eggs",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:sunny_side_eggs"
+    }
+  ],
+  "sortnum": 107
+}

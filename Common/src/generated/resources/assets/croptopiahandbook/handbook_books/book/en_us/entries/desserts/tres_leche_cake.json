@@ -1,12 +1,12 @@
 {
   "category": "croptopiahandbook:desserts",
   "icon": "croptopia:tres_leche_cake",
-  "name": "item.croptopia.fajitas",
+  "name": "item.croptopia.tres_leche_cake",
   "pages": [
     {
       "type": "handbook:crafting",
-      "recipe": "croptopia:fajitas"
+      "recipe": "croptopia:tres_leche_cake"
     }
   ],
-  "sortnum": 8
+  "sortnum": 30
 }

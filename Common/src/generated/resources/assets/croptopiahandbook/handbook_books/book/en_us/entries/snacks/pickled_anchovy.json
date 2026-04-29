@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:pickled_anchovy",
+  "name": "item.croptopia.pickled_anchovy",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pickled_anchovy"
+    }
+  ],
+  "sortnum": 196
+}

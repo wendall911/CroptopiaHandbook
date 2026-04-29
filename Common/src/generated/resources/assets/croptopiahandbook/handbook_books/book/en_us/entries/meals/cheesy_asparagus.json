@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:cheesy_asparagus",
+  "name": "item.croptopia.cheesy_asparagus",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cheesy_asparagus"
+    }
+  ],
+  "sortnum": 188
+}

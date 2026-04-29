@@ -1,5 +1,5 @@
 {
-  "category": "croptopiahandbook:meals",
+  "category": "croptopiahandbook:desserts",
   "icon": "croptopia:lemon_coconut_bar",
   "name": "item.croptopia.lemon_coconut_bar",
   "pages": [
@@ -8,5 +8,5 @@
       "recipe": "croptopia:lemon_coconut_bar"
     }
   ],
-  "sortnum": 133
+  "sortnum": 35
 }

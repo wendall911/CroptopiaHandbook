@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:sticky_toffee_pudding",
+  "name": "item.croptopia.sticky_toffee_pudding",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:sticky_toffee_pudding"
+    }
+  ],
+  "sortnum": 8
+}

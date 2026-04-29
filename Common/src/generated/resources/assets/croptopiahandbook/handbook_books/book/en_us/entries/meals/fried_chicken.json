@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:fried_chicken",
+  "name": "item.croptopia.fried_chicken",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:fried_chicken"
+    }
+  ],
+  "sortnum": 156
+}

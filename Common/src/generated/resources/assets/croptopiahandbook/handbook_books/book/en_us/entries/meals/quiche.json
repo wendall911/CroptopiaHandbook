@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:quiche",
+  "name": "item.croptopia.quiche",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:quiche"
+    }
+  ],
+  "sortnum": 143
+}

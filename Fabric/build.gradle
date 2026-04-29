@@ -15,7 +15,7 @@ dependencies {
     implementation group: 'technology.roughness.handbook', name: "handbook-${minecraft_version}-fabric", version: "${handbook_version}"
     include group: 'technology.roughness.handbook', name: "handbook-${minecraft_version}-fabric", version: "${handbook_version}"
 
-    runtimeOnly group: 'technology.roughness.whitenoise', name: "whitenoise-${minecraft_version}-fabric", version: "${whitenoise_version}"
+    implementation group: 'technology.roughness.whitenoise', name: "whitenoise-${minecraft_version}-fabric", version: "${whitenoise_version}"
     include group: 'technology.roughness.whitenoise', name: "whitenoise-${minecraft_version}-fabric", version: "${whitenoise_version}"
 
     implementation "curse.maven:croptopia-415438:${croptopia_fabric_version}"

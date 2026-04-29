@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:stir_fry",
+  "name": "item.croptopia.stir_fry",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:stir_fry"
+    }
+  ],
+  "sortnum": 192
+}

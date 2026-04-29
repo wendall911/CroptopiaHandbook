@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:stuffed_poblanos",
+  "name": "item.croptopia.stuffed_poblanos",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:stuffed_poblanos"
+    }
+  ],
+  "sortnum": 155
+}

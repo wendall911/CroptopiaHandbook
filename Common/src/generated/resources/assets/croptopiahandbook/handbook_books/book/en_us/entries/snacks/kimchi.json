@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:kimchi",
+  "name": "item.croptopia.kimchi",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:kimchi"
+    }
+  ],
+  "sortnum": 233
+}

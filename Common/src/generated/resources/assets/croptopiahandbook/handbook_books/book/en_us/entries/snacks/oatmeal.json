@@ -1,6 +1,6 @@
 {
   "category": "croptopiahandbook:snacks",
-  "icon": "croptopia:yoghurt",
+  "icon": "croptopia:oatmeal",
   "name": "item.croptopia.oatmeal",
   "pages": [
     {
@@ -8,5 +8,5 @@
       "recipe": "croptopia:oatmeal"
     }
   ],
-  "sortnum": 244
+  "sortnum": 227
 }

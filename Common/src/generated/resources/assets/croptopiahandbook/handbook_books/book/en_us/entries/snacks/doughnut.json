@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:doughnut",
+  "name": "item.croptopia.doughnut",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:doughnut"
+    }
+  ],
+  "sortnum": 237
+}

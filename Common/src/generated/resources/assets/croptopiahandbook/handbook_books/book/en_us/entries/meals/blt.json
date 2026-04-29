@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:blt",
+  "name": "item.croptopia.blt",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:blt"
+    }
+  ],
+  "sortnum": 179
+}

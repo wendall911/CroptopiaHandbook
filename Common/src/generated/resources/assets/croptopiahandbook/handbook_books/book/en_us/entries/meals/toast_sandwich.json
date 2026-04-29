@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:toast_sandwich",
+  "name": "item.croptopia.toast_sandwich",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:toast_sandwich"
+    }
+  ],
+  "sortnum": 167
+}

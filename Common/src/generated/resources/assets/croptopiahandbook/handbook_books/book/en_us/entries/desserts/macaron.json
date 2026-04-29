@@ -1,6 +1,6 @@
 {
-  "category": "croptopiahandbook:snacks",
-  "icon": "croptopia:sausage",
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:macaron",
   "name": "item.croptopia.macaron",
   "pages": [
     {
@@ -8,5 +8,5 @@
       "recipe": "croptopia:macaron"
     }
   ],
-  "sortnum": 232
+  "sortnum": 24
 }

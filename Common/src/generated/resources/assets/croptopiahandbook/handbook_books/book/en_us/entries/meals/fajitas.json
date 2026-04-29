@@ -1,6 +1,6 @@
 {
   "category": "croptopiahandbook:meals",
-  "icon": "croptopia:enchilada",
+  "icon": "croptopia:fajitas",
   "name": "item.croptopia.fajitas",
   "pages": [
     {
@@ -8,5 +8,5 @@
       "recipe": "croptopia:fajitas"
     }
   ],
-  "sortnum": 191
+  "sortnum": 131
 }

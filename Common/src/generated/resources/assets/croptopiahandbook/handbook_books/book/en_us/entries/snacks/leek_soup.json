@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:leek_soup",
+  "name": "item.croptopia.leek_soup",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:leek_soup"
+    }
+  ],
+  "sortnum": 228
+}

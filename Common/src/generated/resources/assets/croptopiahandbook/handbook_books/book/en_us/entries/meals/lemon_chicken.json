@@ -1,6 +1,6 @@
 {
   "category": "croptopiahandbook:meals",
-  "icon": "croptopia:fried_chicken",
+  "icon": "croptopia:lemon_chicken",
   "name": "item.croptopia.lemon_chicken",
   "pages": [
     {
@@ -8,5 +8,5 @@
       "recipe": "croptopia:lemon_chicken"
     }
   ],
-  "sortnum": 194
+  "sortnum": 158
 }

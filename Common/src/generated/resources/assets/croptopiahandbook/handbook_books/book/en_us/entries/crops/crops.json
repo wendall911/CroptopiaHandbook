@@ -8,295 +8,411 @@
       "text": "info.croptopia.guide.crops.crops.details"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/artichoke",
       "item": "croptopia:artichoke,croptopia:artichoke_seed,croptopia:artichoke_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.artichoke_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/asparagus",
       "item": "croptopia:asparagus,croptopia:asparagus_seed,croptopia:asparagus_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.asparagus_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/barley",
       "item": "croptopia:barley,croptopia:barley_seed,croptopia:barley_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.barley_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/basil",
       "item": "croptopia:basil,croptopia:basil_seed,croptopia:basil_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.basil_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/bellpepper",
       "item": "croptopia:bellpepper,croptopia:bellpepper_seed,croptopia:bellpepper_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.bellpepper_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/blackbean",
       "item": "croptopia:blackbean,croptopia:blackbean_seed,croptopia:blackbean_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.blackbean_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/blackberry",
       "item": "croptopia:blackberry,croptopia:blackberry_seed,croptopia:blackberry_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.blackberry_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/blueberry",
       "item": "croptopia:blueberry,croptopia:blueberry_seed,croptopia:blueberry_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.blueberry_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/broccoli",
       "item": "croptopia:broccoli,croptopia:broccoli_seed,croptopia:broccoli_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.broccoli_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/cabbage",
       "item": "croptopia:cabbage,croptopia:cabbage_seed,croptopia:cabbage_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.cabbage_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/cantaloupe",
       "item": "croptopia:cantaloupe,croptopia:cantaloupe_seed,croptopia:cantaloupe_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.cantaloupe_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/cauliflower",
       "item": "croptopia:cauliflower,croptopia:cauliflower_seed,croptopia:cauliflower_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.cauliflower_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/celery",
       "item": "croptopia:celery,croptopia:celery_seed,croptopia:celery_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.celery_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/chile_pepper",
       "item": "croptopia:chile_pepper,croptopia:chile_pepper_seed,croptopia:chile_pepper_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.chile_pepper_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/coffee_beans",
       "item": "croptopia:coffee_beans,croptopia:coffee_seed,croptopia:coffee_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.coffee_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/corn",
       "item": "croptopia:corn,croptopia:corn_seed,croptopia:corn_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.corn_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/cranberry",
       "item": "croptopia:cranberry,croptopia:cranberry_seed,croptopia:cranberry_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.cranberry_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/cucumber",
       "item": "croptopia:cucumber,croptopia:cucumber_seed,croptopia:cucumber_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.cucumber_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/currant",
       "item": "croptopia:currant,croptopia:currant_seed,croptopia:currant_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.currant_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/eggplant",
       "item": "croptopia:eggplant,croptopia:eggplant_seed,croptopia:eggplant_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.eggplant_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/elderberry",
       "item": "croptopia:elderberry,croptopia:elderberry_seed,croptopia:elderberry_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.elderberry_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/garlic",
       "item": "croptopia:garlic,croptopia:garlic_seed,croptopia:garlic_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.garlic_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/ginger",
       "item": "croptopia:ginger,croptopia:ginger_seed,croptopia:ginger_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.ginger_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/grape",
       "item": "croptopia:grape,croptopia:grape_seed,croptopia:grape_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.grape_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/greenbean",
       "item": "croptopia:greenbean,croptopia:greenbean_seed,croptopia:greenbean_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.greenbean_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/greenonion",
       "item": "croptopia:greenonion,croptopia:greenonion_seed,croptopia:greenonion_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.greenonion_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/honeydew",
       "item": "croptopia:honeydew,croptopia:honeydew_seed,croptopia:honeydew_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.honeydew_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/hops",
       "item": "croptopia:hops,croptopia:hops_seed,croptopia:hops_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.hops_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/kale",
       "item": "croptopia:kale,croptopia:kale_seed,croptopia:kale_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.kale_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/kiwi",
       "item": "croptopia:kiwi,croptopia:kiwi_seed,croptopia:kiwi_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.kiwi_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/leek",
       "item": "croptopia:leek,croptopia:leek_seed,croptopia:leek_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.leek_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/lettuce",
       "item": "croptopia:lettuce,croptopia:lettuce_seed,croptopia:lettuce_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.lettuce_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/mustard",
       "item": "croptopia:mustard,croptopia:mustard_seed,croptopia:mustard_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.mustard_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/oat",
       "item": "croptopia:oat,croptopia:oat_seed,croptopia:oat_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.oat_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/olive",
       "item": "croptopia:olive,croptopia:olive_seed,croptopia:olive_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.olive_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/onion",
       "item": "croptopia:onion,croptopia:onion_seed,croptopia:onion_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.onion_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/peanut",
       "item": "croptopia:peanut,croptopia:peanut_seed,croptopia:peanut_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.peanut_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/pepper",
       "item": "croptopia:pepper,croptopia:pepper_seed,croptopia:pepper_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.pepper_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/pineapple",
       "item": "croptopia:pineapple,croptopia:pineapple_seed,croptopia:pineapple_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.pineapple_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/radish",
       "item": "croptopia:radish,croptopia:radish_seed,croptopia:radish_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.radish_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/raspberry",
       "item": "croptopia:raspberry,croptopia:raspberry_seed,croptopia:raspberry_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.raspberry_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/rhubarb",
       "item": "croptopia:rhubarb,croptopia:rhubarb_seed,croptopia:rhubarb_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.rhubarb_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/rice",
       "item": "croptopia:rice,croptopia:rice_seed,croptopia:rice_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.rice_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/rutabaga",
       "item": "croptopia:rutabaga,croptopia:rutabaga_seed,croptopia:rutabaga_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.rutabaga_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/saguaro",
       "item": "croptopia:saguaro,croptopia:saguaro_seed,croptopia:saguaro_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.saguaro_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/soybean",
       "item": "croptopia:soybean,croptopia:soybean_seed,croptopia:soybean_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.soybean_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/spinach",
       "item": "croptopia:spinach,croptopia:spinach_seed,croptopia:spinach_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.spinach_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/squash",
       "item": "croptopia:squash,croptopia:squash_seed,croptopia:squash_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.squash_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/strawberry",
       "item": "croptopia:strawberry,croptopia:strawberry_seed,croptopia:strawberry_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.strawberry_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/sweetpotato",
       "item": "croptopia:sweetpotato,croptopia:sweetpotato_seed,croptopia:sweetpotato_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.sweetpotato_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/tea_leaves",
       "item": "croptopia:tea_leaves,croptopia:tea_seed,croptopia:tea_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.tea_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/tomatillo",
       "item": "croptopia:tomatillo,croptopia:tomatillo_seed,croptopia:tomatillo_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.tomatillo_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/tomato",
       "item": "croptopia:tomato,croptopia:tomato_seed,croptopia:tomato_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.tomato_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/turmeric",
       "item": "croptopia:turmeric,croptopia:turmeric_seed,croptopia:turmeric_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.turmeric_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/turnip",
       "item": "croptopia:turnip,croptopia:turnip_seed,croptopia:turnip_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.turnip_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/vanilla",
       "item": "croptopia:vanilla,croptopia:vanilla_seeds,croptopia:vanilla_seeds",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.vanilla_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/yam",
       "item": "croptopia:yam,croptopia:yam_seed,croptopia:yam_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.yam_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_crop/zucchini",
       "item": "croptopia:zucchini,croptopia:zucchini_seed,croptopia:zucchini_seed",
+      "text": "info.croptopia.guide.crops.crops.biomes",
       "title": "block.croptopia.zucchini_crop"
     }
   ],
-  "sortnum": 252
+  "sortnum": 243
 }

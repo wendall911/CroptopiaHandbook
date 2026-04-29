@@ -1,11 +1,11 @@
 {
   "category": "croptopiahandbook:meals",
-  "icon": "croptopia:macaron",
-  "name": "item.croptopia.macaron",
+  "icon": "croptopia:enchilada",
+  "name": "item.croptopia.enchilada",
   "pages": [
     {
       "type": "handbook:crafting",
-      "recipe": "croptopia:macaron"
+      "recipe": "croptopia:enchilada"
     }
   ],
   "sortnum": 176

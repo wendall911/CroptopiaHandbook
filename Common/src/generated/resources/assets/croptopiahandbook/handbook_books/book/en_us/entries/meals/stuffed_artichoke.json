@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:stuffed_artichoke",
+  "name": "item.croptopia.stuffed_artichoke",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:stuffed_artichoke"
+    }
+  ],
+  "sortnum": 186
+}

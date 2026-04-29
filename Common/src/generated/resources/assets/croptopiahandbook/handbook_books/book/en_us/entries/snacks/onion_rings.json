@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:onion_rings",
+  "name": "item.croptopia.onion_rings",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:onion_rings"
+    }
+  ],
+  "sortnum": 199
+}

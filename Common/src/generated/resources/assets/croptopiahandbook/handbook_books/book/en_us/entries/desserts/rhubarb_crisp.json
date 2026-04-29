@@ -1,5 +1,5 @@
 {
-  "category": "croptopiahandbook:meals",
+  "category": "croptopiahandbook:desserts",
   "icon": "croptopia:rhubarb_crisp",
   "name": "item.croptopia.rhubarb_crisp",
   "pages": [
@@ -8,5 +8,5 @@
       "recipe": "croptopia:rhubarb_crisp"
     }
   ],
-  "sortnum": 189
+  "sortnum": 10
 }

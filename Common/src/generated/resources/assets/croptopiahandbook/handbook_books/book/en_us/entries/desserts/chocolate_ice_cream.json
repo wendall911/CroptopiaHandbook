@@ -1,5 +1,5 @@
 {
-  "category": "croptopiahandbook:meals",
+  "category": "croptopiahandbook:desserts",
   "icon": "croptopia:chocolate_ice_cream",
   "name": "item.croptopia.chocolate_ice_cream",
   "pages": [
@@ -8,5 +8,5 @@
       "recipe": "croptopia:chocolate_ice_cream"
     }
   ],
-  "sortnum": 126
+  "sortnum": 32
 }

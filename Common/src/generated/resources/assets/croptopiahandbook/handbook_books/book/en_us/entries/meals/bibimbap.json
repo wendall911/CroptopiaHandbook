@@ -1,12 +1,12 @@
 {
   "category": "croptopiahandbook:meals",
   "icon": "croptopia:bibimbap",
-  "name": "item.croptopia.pickled_onion",
+  "name": "item.croptopia.bibimbap",
   "pages": [
     {
       "type": "handbook:crafting",
-      "recipe": "croptopia:pickled_onion"
+      "recipe": "croptopia:bibimbap"
     }
   ],
-  "sortnum": 123
+  "sortnum": 106
 }

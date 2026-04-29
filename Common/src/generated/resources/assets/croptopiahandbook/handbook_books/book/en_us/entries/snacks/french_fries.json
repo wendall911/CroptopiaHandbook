@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:french_fries",
+  "name": "item.croptopia.french_fries",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:french_fries"
+    }
+  ],
+  "sortnum": 198
+}

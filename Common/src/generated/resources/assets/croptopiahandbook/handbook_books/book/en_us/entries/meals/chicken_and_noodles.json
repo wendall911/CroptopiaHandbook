@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:chicken_and_noodles",
+  "name": "item.croptopia.chicken_and_noodles",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:chicken_and_noodles"
+    }
+  ],
+  "sortnum": 145
+}

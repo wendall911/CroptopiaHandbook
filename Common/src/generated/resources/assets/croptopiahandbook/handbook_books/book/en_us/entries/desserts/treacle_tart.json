@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:treacle_tart",
+  "name": "item.croptopia.treacle_tart",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:treacle_tart"
+    }
+  ],
+  "sortnum": 23
+}

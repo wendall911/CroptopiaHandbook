@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:pickled_eggs",
+  "name": "item.croptopia.pickled_eggs",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:pickled_eggs"
+    }
+  ],
+  "sortnum": 218
+}

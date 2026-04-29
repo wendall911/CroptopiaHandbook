@@ -1,11 +1,11 @@
 {
   "category": "croptopiahandbook:desserts",
-  "icon": "croptopia:cheese_cake",
-  "name": "item.croptopia.cheese_cake",
+  "icon": "croptopia:scones",
+  "name": "item.croptopia.scones",
   "pages": [
     {
       "type": "handbook:crafting",
-      "recipe": "croptopia:cheese_cake"
+      "recipe": "croptopia:scones"
     }
   ],
   "sortnum": 21

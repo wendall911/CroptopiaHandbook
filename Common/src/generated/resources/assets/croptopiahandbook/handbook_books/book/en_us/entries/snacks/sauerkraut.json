@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:sauerkraut",
+  "name": "item.croptopia.sauerkraut",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:sauerkraut"
+    }
+  ],
+  "sortnum": 210
+}

@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:sausage",
+  "name": "item.croptopia.sausage",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:sausage"
+    }
+  ],
+  "sortnum": 235
+}

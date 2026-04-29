@@ -8,135 +8,187 @@
       "text": "info.croptopia.guide.crops.trees.details"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/almond",
       "item": "croptopia:almond,croptopia:almond_sapling,croptopia:almond_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.almond_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/apple",
       "item": "minecraft:apple,croptopia:apple_sapling,croptopia:apple_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.apple_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/apricot",
       "item": "croptopia:apricot,croptopia:apricot_sapling,croptopia:apricot_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.apricot_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/avocado",
       "item": "croptopia:avocado,croptopia:avocado_sapling,croptopia:avocado_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.avocado_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/banana",
       "item": "croptopia:banana,croptopia:banana_sapling,croptopia:banana_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.banana_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/cashew",
       "item": "croptopia:cashew,croptopia:cashew_sapling,croptopia:cashew_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.cashew_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/cherry",
       "item": "croptopia:cherry,croptopia:cherry_sapling,croptopia:cherry_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.cherry_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/coconut",
       "item": "croptopia:coconut,croptopia:coconut_sapling,croptopia:coconut_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.coconut_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/date",
       "item": "croptopia:date,croptopia:date_sapling,croptopia:date_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.date_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/dragonfruit",
       "item": "croptopia:dragonfruit,croptopia:dragonfruit_sapling,croptopia:dragonfruit_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.dragonfruit_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/fig",
       "item": "croptopia:fig,croptopia:fig_sapling,croptopia:fig_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.fig_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/grapefruit",
       "item": "croptopia:grapefruit,croptopia:grapefruit_sapling,croptopia:grapefruit_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.grapefruit_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/kumquat",
       "item": "croptopia:kumquat,croptopia:kumquat_sapling,croptopia:kumquat_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.kumquat_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/lemon",
       "item": "croptopia:lemon,croptopia:lemon_sapling,croptopia:lemon_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.lemon_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/lime",
       "item": "croptopia:lime,croptopia:lime_sapling,croptopia:lime_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.lime_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/mango",
       "item": "croptopia:mango,croptopia:mango_sapling,croptopia:mango_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.mango_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/nectarine",
       "item": "croptopia:nectarine,croptopia:nectarine_sapling,croptopia:nectarine_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.nectarine_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/nutmeg",
       "item": "croptopia:nutmeg,croptopia:nutmeg_sapling,croptopia:nutmeg_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.nutmeg_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/orange",
       "item": "croptopia:orange,croptopia:orange_sapling,croptopia:orange_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.orange_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/peach",
       "item": "croptopia:peach,croptopia:peach_sapling,croptopia:peach_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.peach_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/pear",
       "item": "croptopia:pear,croptopia:pear_sapling,croptopia:pear_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.pear_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/pecan",
       "item": "croptopia:pecan,croptopia:pecan_sapling,croptopia:pecan_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.pecan_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/persimmon",
       "item": "croptopia:persimmon,croptopia:persimmon_sapling,croptopia:persimmon_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.persimmon_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/plum",
       "item": "croptopia:plum,croptopia:plum_sapling,croptopia:plum_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.plum_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/starfruit",
       "item": "croptopia:starfruit,croptopia:starfruit_sapling,croptopia:starfruit_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.starfruit_crop"
     },
     {
-      "type": "handbook:spotlight",
+      "type": "croptopiahandbook:spotlight",
+      "biomes": "croptopia:has_tree/walnut",
       "item": "croptopia:walnut,croptopia:walnut_sapling,croptopia:walnut_crop",
+      "text": "info.croptopia.guide.crops.trees.biomes",
       "title": "block.croptopia.walnut_crop"
     }
   ],
-  "sortnum": 253
+  "sortnum": 244
 }

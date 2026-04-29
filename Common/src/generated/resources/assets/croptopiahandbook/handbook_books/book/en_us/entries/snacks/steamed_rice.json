@@ -1,6 +1,6 @@
 {
   "category": "croptopiahandbook:snacks",
-  "icon": "croptopia:sweet_potato_fries",
+  "icon": "croptopia:steamed_rice",
   "name": "item.croptopia.steamed_rice",
   "pages": [
     {
@@ -8,5 +8,5 @@
       "recipe": "croptopia:steamed_rice"
     }
   ],
-  "sortnum": 239
+  "sortnum": 231
 }

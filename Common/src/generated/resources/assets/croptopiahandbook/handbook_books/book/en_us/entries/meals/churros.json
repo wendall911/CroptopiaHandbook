@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:churros",
+  "name": "item.croptopia.churros",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:churros"
+    }
+  ],
+  "sortnum": 190
+}

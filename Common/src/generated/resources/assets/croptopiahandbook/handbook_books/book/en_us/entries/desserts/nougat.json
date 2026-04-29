@@ -1,5 +1,5 @@
 {
-  "category": "croptopiahandbook:snacks",
+  "category": "croptopiahandbook:desserts",
   "icon": "croptopia:nougat",
   "name": "item.croptopia.nougat",
   "pages": [
@@ -8,5 +8,5 @@
       "recipe": "croptopia:nougat"
     }
   ],
-  "sortnum": 241
+  "sortnum": 27
 }

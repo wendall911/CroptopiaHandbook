@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:desserts",
+  "icon": "croptopia:figgy_pudding",
+  "name": "item.croptopia.figgy_pudding",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:figgy_pudding"
+    }
+  ],
+  "sortnum": 13
+}

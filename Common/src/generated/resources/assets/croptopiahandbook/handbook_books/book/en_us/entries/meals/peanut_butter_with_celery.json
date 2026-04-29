@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:meals",
+  "icon": "croptopia:peanut_butter_with_celery",
+  "name": "item.croptopia.peanut_butter_with_celery",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:peanut_butter_with_celery"
+    }
+  ],
+  "sortnum": 122
+}

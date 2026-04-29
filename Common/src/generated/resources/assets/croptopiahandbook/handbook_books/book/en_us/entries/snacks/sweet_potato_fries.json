@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:sweet_potato_fries",
+  "name": "item.croptopia.sweet_potato_fries",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:sweet_potato_fries"
+    }
+  ],
+  "sortnum": 200
+}

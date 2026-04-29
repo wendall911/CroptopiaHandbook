@@ -1,0 +1,12 @@
+{
+  "category": "croptopiahandbook:snacks",
+  "icon": "croptopia:cucumber_salad",
+  "name": "item.croptopia.cucumber_salad",
+  "pages": [
+    {
+      "type": "handbook:crafting",
+      "recipe": "croptopia:cucumber_salad"
+    }
+  ],
+  "sortnum": 197
+}

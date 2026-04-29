@@ -1,5 +1,5 @@
 {
-  "category": "croptopiahandbook:meals",
+  "category": "croptopiahandbook:desserts",
   "icon": "croptopia:kiwi_sorbet",
   "name": "item.croptopia.kiwi_sorbet",
   "pages": [
@@ -8,5 +8,5 @@
       "recipe": "croptopia:kiwi_sorbet"
     }
   ],
-  "sortnum": 157
+  "sortnum": 15
 }
