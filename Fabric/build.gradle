@@ -102,28 +102,12 @@ publishMods {
             serverRequired = true
             minecraftVersions.addAll("${release_versions}".split(','))
             requires('fabric-api')
+            requires('croptopia')
+            required('epherolib')
             optional('actually-harvest')
             optional('betterdays')
             optional('charged-charms')
             optional('creeper-fireworks')
-            optional('homeostatic')
-            optional('homeostatic-seasons')
-            optional('mobchampions')
-            optional('ready-player-fun')
-            optional('simpletextoverlay')
-            optional('survivalist-essentials')
-        }
-    }
-    if (project.hasProperty("${modrinth_api_key_prop}")) {
-        modrinth {
-            accessToken = project.property("${modrinth_api_key_prop}")
-            projectId = "${modrinth_id}"
-            minecraftVersions.addAll("${release_versions}".split(','))
-            requires('fabric-api')
-            optional('actually-harvest')
-            optional('betterdays')
-            optional('charged-charms')
-            optional('creeper-fireworks-mod')
             optional('homeostatic')
             optional('homeostatic-seasons')
             optional('mobchampions')
