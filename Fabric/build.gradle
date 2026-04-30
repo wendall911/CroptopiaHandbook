@@ -103,7 +103,7 @@ publishMods {
             minecraftVersions.addAll("${release_versions}".split(','))
             requires('fabric-api')
             requires('croptopia')
-            required('epherolib')
+            requires('epherolib')
             optional('actually-harvest')
             optional('betterdays')
             optional('charged-charms')
