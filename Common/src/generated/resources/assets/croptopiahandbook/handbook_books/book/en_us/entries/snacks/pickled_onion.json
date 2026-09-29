@@ -1,6 +1,6 @@
 {
   "category": "croptopiahandbook:snacks",
-  "icon": "croptopia:pickled_ginger",
+  "icon": "croptopia:pickled_onion",
   "name": "item.croptopia.pickled_onion",
   "pages": [
     {
@@ -8,5 +8,5 @@
       "recipe": "croptopia:pickled_onion"
     }
   ],
-  "sortnum": 230
+  "sortnum": 215
 }
